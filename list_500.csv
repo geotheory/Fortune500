@@ -1,0 +1,501 @@
+fortune_rank_2018,company_name,twitter_handle_&_link,press_contact,ticker_symbol,ceo_name,ceo_title,sector,industry,hq_location,website,years_on_fortune_list
+1,Walmart,@walmart,,WMT,C. Douglas McMillon,"President, Chief Executive Officer & Director",Retailing,General Merchandisers,"Bentonville, Ark.",http://www.stock.walmart.com,24
+2,Exxon Mobil,@exxonmobil,,XOM,Darren W. Woods,Chairman & Chief Executive Officer,Energy,Petroleum Refining,"Irving, Texas",http://www.exxonmobil.com,24
+3,Berkshire Hathaway,n/a ,,BRK.A,Warren E. Buffett,"Chairman, President & Chief Executive Officer",Financials,Insurance: Property and Casualty (Stock),Omaha,http://www.berkshirehathaway.com,24
+4,Apple,@apple,,AAPL,Timothy D. Cook,Chairman & Chief Executive Officer,Technology,"Computers, Office Equipment","Cupertino, Calif.",http://www.apple.com,24
+5,UnitedHealth Group,@UnitedHealthGrp,,UNH,David S. Wichmann,Chairman & Chief Executive Officer,Health Care,Health Care: Insurance and Managed Care,"Minnetonka, Minn.",http://www.unitedhealthgroup.com,24
+6,McKesson,@McKesson,,MCK,John H. Hammergren,"Chairman, President & Chief Executive Officer",Wholesalers,Wholesalers: Health Care,San Francisco,http://www.mckesson.com,24
+7,CVS Health,@cvspharmacy,,CVS,Larry J. Merlo,"President, Chief Executive Officer & Director",Health Care,Health Care: Pharmacy and Other Services,"Woonsocket, R.I.",http://www.cvshealth.com,24
+8,Amazon.com,@amazon,,AMZN,Jeffrey P. Bezos,"Chairman, President & Chief Executive Officer",Retailing,Internet Services and Retailing,Seattle,http://www.amazon.com,17
+9,AT&T,@ATT,,T,Randall L. Stephenson,"Chairman, President & Chief Executive Officer",Telecommunications,Telecommunications,Dallas,http://www.att.com,24
+10,General Motors,@gm,,GM,Mary T. Barra,Chairman & Chief Executive Officer,Motor Vehicles & Parts,Motor Vehicles and Parts,Detroit,http://www.gm.com,24
+11,Ford Motor,@Ford,,F,James P. Hackett,"President, Chief Executive Officer & Director",Motor Vehicles & Parts,Motor Vehicles and Parts,"Dearborn, Mich.",http://www.corporate.ford.com,24
+12,AmerisourceBergen,@healthcare_abc,,ABC,Steven H. Collis,"Chairman, President & Chief Executive Officer",Wholesalers,Wholesalers: Health Care,"Chesterbrook, Pa.",http://www.amerisourcebergen.com,24
+13,Chevron,@chevron,,CVX,Michael K. Wirth,Chairman & Chief Executive Officer,Energy,Petroleum Refining,"San Ramon, Calif.",http://www.chevron.com,24
+14,Cardinal Health,@cardinalhealth,,CAH,Michael C. Kaufmann,Chairman & Chief Executive Officer,Wholesalers,Wholesalers: Health Care,"Dublin, Ohio",http://www.cardinalhealth.com,24
+15,Costco,@costco,,COST,W. Craig Jelinek,"President, Chief Executive Officer & Director",Retailing,General Merchandisers,"Issaquah, Wash.",http://www.costco.com,24
+16,Verizon,@verizon,,VZ,Lowell C. McAdam,Chairman & Chief Executive Officer,Telecommunications,Telecommunications,New York City,http://www.verizon.com,24
+17,Kroger,@kroger,,KR,W. Rodney McMullen,Chairman & Chief Executive Officer,Food & Drug Stores,Food and Drug Stores,Cincinnati,http://www.thekrogerco.com,24
+18,General Electric,@generalelectric,,GE,John L. Flannery Jr.,Chairman & Chief Executive Officer,Industrials,Industrial Machinery,Boston,http://www.ge.com,24
+19,Walgreens Boots Alliance,n/a ,,WBA,Stefano Pessina,Vice Chairman & Chief Executive Officer,Food & Drug Stores,Food and Drug Stores,"Deerfield, Ill.",http://www.walgreensbootsalliance.com,24
+20,JPMorgan Chase,@JPMorgan,,JPM,James Dimon,Chairman & Chief Executive Officer,Financials,Commercial Banks,New York City,http://www.jpmorganchase.com,24
+21,Fannie Mae,@fanniemae,,FNMA,Timothy J. Mayopoulos,"President, Chief Executive Officer & Director",Financials,Diversified Financials,Washington,http://www.fanniemae.com,21
+22,Alphabet,n/a ,,GOOGL,Larry Page,Chief Executive Officer & Director,Technology,Internet Services and Retailing,"Mountain View, Calif.",http://www.abc.xyz,13
+23,Home Depot,@HomeDepot,,HD,Craig A. Menear,"Chairman, President & Chief Executive Officer",Retailing,Specialty Retailers: Other,Atlanta,http://www.homedepot.com,24
+24,Bank of America Corp.,@bankofamerica,,BAC,Brian T. Moynihan,"Chairman, President & Chief Executive Officer",Financials,Commercial Banks,"Charlotte, N.C.",http://www.bankofamerica.com,24
+25,Express Scripts Holding,@expressscripts,,ESRX,Timothy C. Wentworth,"President, Chief Executive Officer & Director",Health Care,Health Care: Pharmacy and Other Services,St. Louis,http://www.express-scripts.com,19
+26,Wells Fargo,@wellsfargo,,WFC,Timothy J. Sloan,"President, Chief Executive Officer & Director",Financials,Commercial Banks,San Francisco,http://www.wellsfargo.com,24
+27,Boeing,@Boeing,,BA,Dennis A. Muilenburg,"Chairman, President & Chief Executive Officer",Aerospace & Defense,Aerospace and Defense,Chicago,http://www.boeing.com,24
+28,Phillips,@Phillips66Co,,PSX,Greg C. Garland,Chairman & Chief Executive Officer,Energy,Petroleum Refining,Houston,http://www.phillips66.com,6
+29,Anthem,@AnthemInc,,ANTM,Gail K. Boudreaux,"President, Chief Executive Officer & Director",Health Care,Health Care: Insurance and Managed Care,Indianapolis,http://www.antheminc.com,24
+30,Microsoft,@microsoft,,MSFT,Satya Nadella,Chief Executive Officer & Director,Technology,Computer Software,"Redmond, Wash.",http://www.microsoft.com,24
+31,Valero Energy,n/a ,,VLO,Joseph W. Gorder,"Chairman, President & Chief Executive Officer",Energy,Petroleum Refining,San Antonio,http://www.valero.com,20
+32,Citigroup,@citi,,C,Michael L. Corbat,Chairman & Chief Executive Officer,Financials,Commercial Banks,New York City,http://www.citigroup.com,24
+33,Comcast,@comcast,,CMCSA,Brian L. Roberts,"Chairman, President & Chief Executive Officer",Telecommunications,Telecommunications,Philadelphia,http://www.comcastcorporation.com,23
+34,IBM,@ibm,,IBM,Virginia M. Rometty,"Chairman, President & Chief Executive Officer",Technology,Information Technology Services,"Armonk, N.Y.",http://www.ibm.com,24
+35,Dell Technologies,@dell,,,Michael S. Dell,Chairman & Chief Executive Officer,Technology,"Computers, Office Equipment","Round Rock, Texas",http://www.delltechnologies.com,21
+36,State Farm Insurance Cos.,@statefarm,,,Michael L. Tipsord,"Chairman, President & Chief Executive Officer",Financials,Insurance: Property and Casualty (Mutual),"Bloomington, Ill.",http://www.statefarm.com,24
+37,Johnson & Johnson,@jnjnews,,JNJ,Alex Gorsky,Chairman & Chief Executive Officer,Health Care,Pharmaceuticals,"New Brunswick, N.J.",http://www.jnj.com,24
+38,Freddie Mac,@freddiemac,,FMCC,Donald H. Layton,Chairman & Chief Executive Officer,Financials,Diversified Financials,"McLean, Va.",http://www.freddiemac.com,21
+39,Target,@Target,,TGT,Brian C. Cornell,Chairman & Chief Executive Officer,Retailing,General Merchandisers,Minneapolis,http://www.target.com,24
+40,Lowe’s,@lowes,,LOW,Robert A. Niblock,"Chairman, President & Chief Executive Officer",Retailing,Specialty Retailers: Other,"Mooresville, N.C.",http://www.lowes.com,24
+41,Marathon Petroleum,@marathonpetroco,,MPC,Gary R. Heminger,Chairman & Chief Executive Officer,Energy,Petroleum Refining,"Findlay, Ohio",http://www.marathonpetroleum.com,7
+42,Procter & Gamble,@proctergamble,,PG,David S. Taylor,"Chairman, President & Chief Executive Officer",Household Products,Household and Personal Products,Cincinnati,http://www.pg.com,24
+43,MetLife,@metlife,,MET,Steven A. Kandarian,"Chairman, President & Chief Executive Officer",Financials,"Insurance: Life, Health (stock)",New York City,http://www.metlife.com,24
+44,UPS,@ups,,UPS,David P. Abney,Chairman & Chief Executive Officer,Transportation,"Mail, Package, and Freight Delivery",Atlanta,http://www.ups.com,24
+45,PepsiCo,@pepsi,,PEP,Indra K. Nooyi,Chairman & Chief Executive Officer,"Food, Beverages & Tobacco",Food Consumer Products,"Purchase, N.Y.",http://www.pepsico.com,24
+46,Intel,@intel,,INTC,Brian M. Krzanich,Chairman & Chief Executive Officer,Technology,Semiconductors and Other Electronic Components,"Santa Clara, Calif.",http://www.intel.com,24
+47,DowDuPont,@dowchemical,,DWDP,Edward D. Breen,Chief Executive Officer,Chemicals,Chemicals,"Midland, Mich.",www.dow-dupont.com,24
+48,Archer Daniels Midland,@admupdates,,ADM,Juan R. Luciano,"Chairman, President & Chief Executive Officer","Food, Beverages & Tobacco",Food Production,Chicago,http://www.adm.com,24
+49,Aetna,@Aetna,,AET,Mark T. Bertolini,Chairman & Chief Executive Officer,Health Care,Health Care: Insurance and Managed Care,"Hartford, Conn.",http://www.aetna.com,18
+50,FedEx,@FedEx,,FDX,Frederick W. Smith,Chairman & Chief Executive Officer,Transportation,"Mail, Package, and Freight Delivery",Memphis,http://www.fedex.com,24
+51,United Technologies,@UTC,,UTX,Gregory J. Hayes,"Chairman, President & Chief Executive Officer",Aerospace & Defense,Aerospace and Defense,"Farmington, Conn.",http://www.utc.com,24
+52,Prudential Financial,@pfglender,,PRU,John R. Strangfeld,"Chairman, President & Chief Executive Officer",Financials,"Insurance: Life, Health (stock)","Newark, N.J.",http://www.prudential.com,24
+53,Albertsons Cos.,@Albertsons,,,Robert G. Miller,Chairman & Chief Executive Officer,Food & Drug Stores,Food and Drug Stores,"Boise, Idaho",http://www.albertsons.com,14
+54,Sysco,@Sysco,,SYY,Thomas L. Bene,"President, Chief Executive Officer & Director",Wholesalers,Wholesalers: Food and Grocery,Houston,http://www.sysco.com,24
+55,Disney,@Disney,,DIS,Robert A. Iger,Chairman & Chief Executive Officer,Media,Entertainment,"Burbank, Calif.",http://www.disney.com,24
+56,Humana,@Humana,,HUM,Bruce D. Broussard,"President, Chief Executive Officer & Director",Health Care,Health Care: Insurance and Managed Care,"Louisville, Ky.",http://www.humana.com,24
+57,Pfizer,@pfizer,,PFE,Ian C. Read,Chairman & Chief Executive Officer,Health Care,Pharmaceuticals,New York City,http://www.pfizer.com,24
+58,HP,@hp,,HPQ,Dion J. Weisler,"President, Chief Executive Officer & Director",Technology,"Computers, Office Equipment","Palo Alto, Calif.",http://www.hp.com,24
+59,Lockheed Martin,@LockheedMartin,,LMT,Marillyn A. Hewson,"Chairman, President & Chief Executive Officer",Aerospace & Defense,Aerospace and Defense,"Bethesda, Md.",http://www.lockheedmartin.com,24
+60,AIG,@AIGinsurance,,AIG,Brian Duperreault,"President, Chief Executive Officer & Director",Financials,Insurance: Property and Casualty (Stock),New York City,http://www.aig.com,24
+61,Centene,@centene,,CNC,Michael F. Neidorff,Chairman & Chief Executive Officer,Health Care,Health Care: Insurance and Managed Care,St. Louis,http://www.centene.com,9
+62,Cisco Systems,@cisco,,CSCO,Charles H. Robbins,Chairman & Chief Executive Officer,Technology,Network and Other Communications Equipment,"San Jose, Calif.",http://www.cisco.com,22
+63,HCA Healthcare,@hcahealthcare,,HCA,R. Milton Johnson,Chairman & Chief Executive Officer,Health Care,Health Care: Medical Facilities,Nashville,www.hcahealthcare.com,24
+64,Energy Transfer Equity,n/a ,,ETE,John W. McReynolds,President & Director,Energy,Pipelines,Dallas,http://www.energytransfer.com,12
+65,Caterpillar,@CaterpillarInc,,CAT,D. James Umpleby III,Chairman & Chief Executive Officer,Industrials,Construction and Farm Machinery,"Deerfield, Ill.",http://www.caterpillar.com,24
+66,Nationwide,@Nationwide,,,Stephen S. Rasmussen,Chief Executive Officer,Financials,Insurance: Property and Casualty (Mutual),"Columbus, Ohio",http://www.nationwide.com,24
+67,Morgan Stanley,@MorganStanley,,MS,James P. Gorman,Chairman & Chief Executive Officer,Financials,Commercial Banks,New York City,http://www.morganstanley.com,24
+68,Liberty Mutual Insurance Group,@libertymutual,,,David H. Long,"Chairman, President & Chief Executive Officer",Financials,Insurance: Property and Casualty (Stock),Boston,http://www.libertymutual.com,24
+69,New York Life Insurance,@NewYorkLife,,,Theodore A. Mathas,Chairman & Chief Executive Officer,Financials,"Insurance: Life, Health (Mutual)",New York City,http://www.newyorklife.com,24
+70,Goldman Sachs Group,@GoldmanSachs,,GS,Lloyd C. Blankfein,Chairman & Chief Executive Officer,Financials,Commercial Banks,New York City,http://www.gs.com,19
+71,American Airlines Group,@AmericanAir,,AAL,W. Douglas Parker,Chairman & Chief Executive Officer,Transportation,Airlines,Fort Worth,http://www.aa.com,24
+72,Best Buy,@BestBuy,,BBY,Hubert B. Joly,Chairman & Chief Executive Officer,Retailing,Specialty Retailers: Other,"Richfield, Minn.",http://www.bestbuy.com,24
+73,Cigna,@cigna,,CI,David M. Cordani,"President, Chief Executive Officer & Director",Health Care,Health Care: Insurance and Managed Care,"Bloomfield, Conn.",http://www.cigna.com,24
+74,Charter Communications,@CharterTMs,,CHTR,Thomas M. Rutledge,Chairman & Chief Executive Officer,Telecommunications,Telecommunications,"Stamford, Conn.",http://www.charter.com,18
+75,Delta Air Lines,@delta,,DAL,Edward H. Bastian,Chairman & Chief Executive Officer,Transportation,Airlines,Atlanta,http://www.delta.com,24
+76,Facebook,@Facebook,,FB,Mark Zuckerberg,Chairman & Chief Executive Officer,Technology,Internet Services and Retailing,"Menlo Park, Calif.",http://www.facebook.com,6
+77,Honeywell International,@honeywell,,HON,Darius Adamczyk,"President, Chief Executive Officer & Director",Industrials,"Electronics, Electrical Equip.","Morris Plains, N.J.",http://www.honeywell.com,24
+78,Merck,@Merck,,MRK,Kenneth C. Frazier,"Chairman, President & Chief Executive Officer",Health Care,Pharmaceuticals,"Kenilworth, N.J.",http://www.merck.com,24
+79,Allstate,@Allstate,,ALL,Thomas J. Wilson,"Chairman, President & Chief Executive Officer",Financials,Insurance: Property and Casualty (Stock),"Northbrook, Ill.",http://www.allstate.com,23
+80,Tyson Foods,@tysonfoods,,TSN,Thomas P. Hayes,"President, Chief Executive Officer & Director","Food, Beverages & Tobacco",Food Production,"Springdale, Ark.",http://www.tysonfoods.com,24
+81,United Continental Holdings,@united,,UAL,Oscar Munoz,Chairman & Chief Executive Officer,Transportation,Airlines,Chicago,http://www.united.com,24
+82,Oracle,@Oracle,,ORCL,Safra A. Catz/Mark V. Hurd,Co-Chief Executive Officer & Director,Technology,Computer Software,"Redwood City, Calif.",http://www.oracle.com,23
+83,Tech Data (Twitter Image),@tech_data,,TECD,Richard T. Hume,Chairman & Chief Executive Officer,Wholesalers,Wholesalers: Electronics and Office Equipment,"Clearwater, Fla.",http://www.techdata.com,24
+84,TIAA,@tiaa,,,Roger W. Ferguson Jr.,"President, Chief Executive Officer & Director",Financials,"Insurance: Life, Health (Mutual)",New York City,http://www.tiaa.org,21
+85,TJX,@tjmaxx,,TJX,Ernie L. Herrman,"President, Chief Executive Officer & Director",Retailing,Specialty Retailers: Apparel,"Framingham, Mass.",http://www.tjx.com,24
+86,American Express,@AmericanExpress,,AXP,Stephen J. Squeri,Chairman & Chief Executive Officer,Financials,Diversified Financials,New York City,http://www.americanexpress.com,24
+87,Coca-Cola,@cocacola,,KO,James R. Quincey,"President, Chief Executive Officer & Director","Food, Beverages & Tobacco",Beverages,Atlanta,http://www.coca-colacompany.com,24
+88,Publix Super Markets,@Publix,,,Randall T. Jones Sr.,"President, Chief Executive Officer & Director",Food & Drug Stores,Food and Drug Stores,"Lakeland, Fla.",http://www.publix.com,24
+89,Nike,@Nike,,NKE,Mark G. Parker,"Chairman, President & Chief Executive Officer",Apparel,Apparel,"Beaverton, Ore.",http://www.nike.com,24
+90,Andeavor,@andeavor,,ANDV,Gregory J. Goff,"Chairman, President & Chief Executive Officer",Energy,Petroleum Refining,San Antonio,www.andeavor.com,19
+91,World Fuel Services,n/a ,,INT,Michael J. Kasbar,Chairman & Chief Executive Officer,Energy,Energy,Miami,http://www.wfscorp.com,14
+92,Exelon,@Exelon,,EXC,Christopher M. Crane,"President, Chief Executive Officer & Director",Energy,Utilities: Gas and Electric,Chicago,http://www.exeloncorp.com,24
+93,Massachusetts Mutual Life Insurance,@massmutual,,,Roger W. Crandall,"Chairman, President & Chief Executive Officer",Financials,"Insurance: Life, Health (Mutual)","Springfield, Mass.",http://www.massmutual.com,24
+94,Rite Aid,@riteaid,,RAD,John T. Standley,Chairman & Chief Executive Officer,Food & Drug Stores,Food and Drug Stores,"Camp Hill, Pa.",http://www.riteaid.com,24
+95,ConocoPhillips,@conocophillips,,COP,Ryan M. Lance,Chairman & Chief Executive Officer,Energy,"Mining, Crude-Oil Production",Houston,http://www.conocophillips.com,24
+96,CHS,@CHSTalentScout,,,Jay D. Debertin,"President, Chief Executive Officer & Director","Food, Beverages & Tobacco",Food Production,"Inver Grove Heights, Minn.",http://www.chsinc.com,19
+97,M,@3M,,MMM,Inge G. Thulin,"Chairman, President & Chief Executive Officer",Industrials,Miscellaneous,"St. Paul, Minn.",http://www.3m.com,24
+98,Time Warner,@WarnerMediaGrp,,TWX,Jeffrey L. Bewkes,Chairman & Chief Executive Officer,Media,Entertainment,New York City,http://www.timewarner.com,19
+99,General Dynamics,@gendyn_it,,GD,Phebe N. Novakovic,Chairman & Chief Executive Officer,Aerospace & Defense,Aerospace and Defense,"Falls Church, Va.",http://www.generaldynamics.com,24
+100,USAA,@usaa,,,Stuart Parker,Chief Executive Officer,Financials,Insurance: Property and Casualty (Stock),San Antonio,http://www.usaa.com,24
+101,Capital One Financial,@capitalone,,COF,Richard D. Fairbank,"Chairman, President & Chief Executive Officer",Financials,Commercial Banks,"McLean, Va.",http://www.capitalone.com,19
+102,Deere,@JohnDeere,,DE,Samuel R. Allen,"Chairman, President & Chief Executive Officer",Industrials,Construction and Farm Machinery,"Moline, Ill.",http://www.johndeere.com,24
+103,INTL FCStone,@intlfcstone,,INTL,Sean M. O'Connor,"President, Chief Executive Officer & Director",Financials,Diversified Financials,New York City,http://www.intlfcstone.com,10
+104,Northwestern Mutual,@nm_news,,,John E. Schlifske,Chairman & Chief Executive Officer,Financials,"Insurance: Life, Health (Mutual)",Milwaukee,http://www.northwesternmutual.com,24
+105,Enterprise Products Partners,@EPROD_Careers,,EPD,A. James Teague,Chairman & Chief Executive Officer,Energy,Pipelines,Houston,http://www.enterpriseproducts.com,13
+106,Travelers Cos.,@travelers,,TRV,Alan D. Schnitzer,Chairman & Chief Executive Officer,Financials,Insurance: Property and Casualty (Stock),New York City,http://www.travelers.com,24
+107,Hewlett Packard Enterprise,@hpe_es,,HPE,Antonio Neri,"President, Chief Executive Officer & Director",Technology,"Computers, Office Equipment","Palo Alto, Calif.",http://www.hpe.com,2
+108,Philip Morris International,@insidepmi,,PM,Andre Calantzopoulos,Chairman & Chief Executive Officer,"Food, Beverages & Tobacco",Tobacco,New York City,http://www.pmi.com,10
+109,Twenty-First Century Fox,@21cf,,FOXA,James R. Murdoch,Chief Executive Officer & Director,Media,Entertainment,New York City,http://www.21cf.com,14
+110,AbbVie,@abbvie,,ABBV,Richard A. Gonzalez,Chairman & Chief Executive Officer,Health Care,Pharmaceuticals,"North Chicago, Ill.",http://www.abbvie.com,5
+111,Abbott Laboratories,@abbottnews,,ABT,Miles D. White,Chairman & Chief Executive Officer,Health Care,Medical Products and Equipment,"Abbott Park, Ill.",http://www.abbott.com,24
+112,Progressive,@Progressive,,PGR,Susan Patricia Griffith,"President, Chief Executive Officer & Director",Financials,Insurance: Property and Casualty (Stock),"Mayfield Village, Ohio",http://www.progressive.com,24
+113,Arrow Electronics,@ArrowGlobal,,ARW,Michael J. Long,"Chairman, President & Chief Executive Officer",Wholesalers,Wholesalers: Electronics and Office Equipment,"Centennial, Colo.",http://www.arrow.com,24
+114,Kraft Heinz,@KraftHeinzCo,,KHC,Bernardo Hees,Chief Executive Officer,"Food, Beverages & Tobacco",Food Consumer Products,Pittsburgh,http://www.kraftheinzcompany.com,24
+115,Plains GP Holdings,n/a ,,PAGP,Greg L. Armstrong,Chairman & Chief Executive Officer,Energy,Pipelines,Houston,http://www.plainsallamerican.com,5
+116,Gilead Sciences,@gileadsciences,,GILD,John F. Milligan IV,"President, Chief Executive Officer & Director",Health Care,Pharmaceuticals,"Foster City, Calif.",http://www.gilead.com,10
+117,Mondelez International,@MDLZ,,MDLZ,Dirk Van de Put,Chairman & Chief Executive Officer,"Food, Beverages & Tobacco",Food Consumer Products,"Deerfield, Ill.",http://www.mondelezinternational.com,11
+118,Northrop Grumman,@northropgrumman,,NOC,Wesley G. Bush,Chairman & Chief Executive Officer,Aerospace & Defense,Aerospace and Defense,"Falls Church, Va.",http://www.northropgrumman.com,24
+119,Raytheon,@Raytheon,,RTN,Thomas A. Kennedy,Chairman & Chief Executive Officer,Aerospace & Defense,Aerospace and Defense,"Waltham, Mass.",http://www.raytheon.com,24
+120,Macy’s,@macys,,M,Jeffrey Gennette,Chairman & Chief Executive Officer,Retailing,General Merchandisers,Cincinnati,http://www.macysinc.com,24
+121,US Foods Holding,@usfoods,,USFD,Pietro Satriano,"Chairman, President & Chief Executive Officer",Wholesalers,Wholesalers: Food and Grocery,"Rosemont, Ill.",http://www.usfoods.com,7
+122,U.S. Bancorp,@usbank,,USB,Andrew J. Cecere,"President, Chief Executive Officer & Director",Financials,Commercial Banks,Minneapolis,http://www.usbank.com,20
+123,Dollar General,@DollarGeneral,,DG,Todd J. Vasos,Chairman & Chief Executive Officer,Retailing,Specialty Retailers: Other,"Goodlettsville, Tenn.",http://www.dollargeneral.com,20
+124,International Paper,@intlpaperco,,IP,Mark S. Sutton,Chairman & Chief Executive Officer,Materials,"Packaging, Containers",Memphis,http://www.internationalpaper.com,24
+125,Duke Energy,@dukeenergy,,DUK,Lynn J. Good,"Chairman, President & Chief Executive Officer",Energy,Utilities: Gas and Electric,"Charlotte, N.C.",http://www.duke-energy.com,24
+126,Southern,@southerncompany,,SO,Thomas A. Fanning,"Chairman, President & Chief Executive Officer",Energy,Utilities: Gas and Electric,Atlanta,http://www.southerncompany.com,24
+127,Marriott International,@marriott,,MAR,Arne M. Sorenson,"President, Chief Executive Officer & Director","Hotels, Restaurants & Leisure","Hotels, Casinos, Resorts","Bethesda, Md.",http://www.marriott.com,20
+128,Avnet,@Avnet,,AVT,William J. Amelio,Chief Executive Officer & Director,Wholesalers,Wholesalers: Electronics and Office Equipment,Phoenix,http://www.avnet.com,24
+129,Eli Lilly,@LillyPad,,LLY,David A. Ricks,"Chairman, President & Chief Executive Officer",Health Care,Pharmaceuticals,Indianapolis,http://www.lilly.com,24
+130,Amgen,@Amgen,,AMGN,Robert A. Bradway,"Chairman, President & Chief Executive Officer",Health Care,Pharmaceuticals,"Thousand Oaks, Calif.",http://www.amgen.com,19
+131,McDonald’s,@McDonalds,,MCD,Stephen J. Easterbrook,"President, Chief Executive Officer & Director","Hotels, Restaurants & Leisure",Food Services,"Oak Brook, Ill.",http://www.aboutmcdonalds.com,24
+132,Starbucks,@Starbucks,,SBUX,Keven R. Johnson,"President, Chief Executive Officer & Director","Hotels, Restaurants & Leisure",Food Services,Seattle,http://www.starbucks.com,16
+133,Qualcomm,@qualcomm_latam,,QCOM,Steven M. Mollenkopf,Chairman & Chief Executive Officer,Technology,Semiconductors and Other Electronic Components,San Diego,http://www.qualcomm.com,19
+134,Dollar Tree,@dollartree,,DLTR,Gary M. Philbin,"President, Chief Executive Officer & Director",Retailing,Specialty Retailers: Other,"Chesapeake, Va.",http://www.dollartree.com,10
+135,PBF Energy,n/a ,,PBF,Thomas J. Nimbley,Chairman & Chief Executive Officer,Energy,Petroleum Refining,"Parsippany, N.J.",http://www.pbfenergy.com,6
+136,Icahn Enterprises,@Carl_C_Icahn,,IEP,Keith Cozza,"President, Chief Executive Officer & Director",Financials,Diversified Financials,New York City,http://www.ielp.com,10
+137,Aflac,@aflac,,AFL,Daniel P. Amos,"Chairman, President & Chief Executive Officer",Financials,"Insurance: Life, Health (stock)","Columbus, Ga.",http://www.aflac.com,24
+138,AutoNation,@autonation,,AN,Michael J. Jackson,"Chairman, President & Chief Executive Officer",Retailing,"Automotive Retailing, Services","Fort Lauderdale, Fla.",http://www.autonation.com,21
+139,Penske Automotive Group,@penskesocial,,PAG,Roger S. Penske,Chairman & Chief Executive Officer,Retailing,"Automotive Retailing, Services","Bloomfield Hills, Mich.",http://www.penskeautomotive.com,20
+140,Whirlpool,@whirlpoolcorp,,WHR,Marc R. Bitzer,"President, Chief Executive Officer & Director",Industrials,"Electronics, Electrical Equip.","Benton Harbor, Mich.",http://www.whirlpoolcorp.com,24
+141,Union Pacific,@unionpacific,,UNP,Lance M. Fritz,"Chairman, President & Chief Executive Officer",Transportation,Railroads,Omaha,http://www.up.com,24
+142,Southwest Airlines,@southwestair,,LUV,Gary C. Kelly,Chairman & Chief Executive Officer,Transportation,Airlines,Dallas,http://www.southwest.com,24
+143,ManpowerGroup,@ManpowerGroup,,MAN,Jonas Prising,Chairman & Chief Executive Officer,Business Services,Temporary Help,Milwaukee,http://www.manpowergroup.com,24
+144,Thermo Fisher Scientific,@thermofisher,,TMO,Marc N. Casper,"President, Chief Executive Officer & Director",Technology,"Scientific,Photographic and Control Equipment","Waltham, Mass.",http://www.thermofisher.com,16
+145,Bristol-Myers Squibb,@bmsnews,,BMY,Giovanni Caforio,Chairman & Chief Executive Officer,Health Care,Pharmaceuticals,New York City,http://www.bms.com,24
+146,Halliburton,@halliburton,,HAL,Jeffrey A. Miller,"President, Chief Executive Officer & Director",Energy,"Oil and Gas Equipment, Services",Houston,http://www.halliburton.com,24
+147,Tenet Healthcare,@tenethealth,,THC,Ronald A. Rittenmeyer,Chairman & Chief Executive Officer,Health Care,Health Care: Medical Facilities,Dallas,http://www.tenethealth.com,24
+148,Lear,@learcorporation,,LEA,Raymond E. Scott,"President, Chief Executive Officer & Director",Motor Vehicles & Parts,Motor Vehicles and Parts,"Southfield, Mich.",http://www.lear.com,24
+149,Cummins,@Cummins,,CMI,N. Thomas Linebarger,Chairman & Chief Executive Officer,Industrials,Industrial Machinery,"Columbus, Ind.",http://www.cummins.com,24
+150,Micron Technology,@microntech,,MU,Sanjay Mehrotra,"President, Chief Executive Officer & Director",Technology,Semiconductors and Other Electronic Components,"Boise, Idaho",http://www.micron.com,21
+151,Nucor,n/a ,,NUE,John J. Ferriola,"Chairman, President & Chief Executive Officer",Materials,Metals,"Charlotte, N.C.",http://www.nucor.com,24
+152,Molina Healthcare,@molinahealth,,MOH,Joseph M. Zubretsky,"President, Chief Executive Officer & Director",Health Care,Health Care: Insurance and Managed Care,"Long Beach, Calif.",http://www.molinahealthcare.com,7
+153,Fluor,@fluorcorp,,FLR,David T. Seaton,Chairman & Chief Executive Officer,Engineering & Construction,"Engineering, Construction","Irving, Texas",http://www.fluor.com,17
+154,Altria Group,@altrianews,,MO,Howard A. Willard III,Chairman & Chief Executive Officer,"Food, Beverages & Tobacco",Tobacco,"Richmond, Va.",http://www.altria.com,24
+155,Paccar,n/a ,,PCAR,Ronald E. Armstrong,Chairman & Chief Executive Officer,Industrials,Construction and Farm Machinery,"Bellevue, Wash.",http://www.paccar.com,24
+156,Hartford Financial Services,@thehartford,,HIG,Christopher J. Swift,Chairman & Chief Executive Officer,Financials,Insurance: Property and Casualty (Stock),"Hartford, Conn.",http://www.thehartford.com,23
+157,Kohl’s,@Kohls,,KSS,Michelle D. Gass,Chairman & Chief Executive Officer,Retailing,General Merchandisers,"Menomonee Falls, Wis.",http://www.kohls.com,21
+158,Western Digital,@westerndigital,,WDC,Stephen D. Milligan,Chairman & Chief Executive Officer,Technology,"Computers, Office Equipment","San Jose, Calif.",http://www.wdc.com,15
+159,Jabil,@jabil,,JBL,Mark T. Mondello,Chairman & Chief Executive Officer,Technology,Semiconductors and Other Electronic Components,"St. Petersburg, Fla",www.jabil.com,17
+160,Community Health Systems,n/a ,,CYH,Wayne T. Smith,Chairman & Chief Executive Officer,Health Care,Health Care: Medical Facilities,"Franklin, Tenn.",http://www.chs.net,12
+161,Visa,@visa,,V,Alfred F. Kelly Jr.,Chairman & Chief Executive Officer,Business Services,Financial Data Services,San Francisco,http://www.visa.com,10
+162,Danaher,@Danaher_U,,DHR,Thomas P. Joyce Jr.,"President, Chief Executive Officer & Director",Health Care,Medical Products and Equipment,Washington,http://www.danaher.com,20
+163,Kimberly-Clark,@kccorp,,KMB,Thomas J. Falk,Chairman & Chief Executive Officer,Household Products,Household and Personal Products,"Irving, Texas",http://www.kimberly-clark.com,24
+164,AECOM,@AECOM,,ACM,Michael S. Burke,Chairman & Chief Executive Officer,Engineering & Construction,"Engineering, Construction",Los Angeles,http://www.aecom.com,10
+165,PNC Financial Services,@pncbank,,PNC,William S. Demchak,"Chairman, President & Chief Executive Officer",Financials,Commercial Banks,Pittsburgh,http://www.pnc.com,24
+166,CenturyLink,@CenturyLink,,CTL,Jeffrey K. Storey,"President, Chief Executive Officer & Director",Telecommunications,Telecommunications,"Monroe, La.",http://www.centurylink.com,9
+167,NextEra Energy,@NextEraEnergyR,,NEE,James L. Robo,"Chairman, President & Chief Executive Officer",Energy,Utilities: Gas and Electric,"Juno Beach, Fla.",http://www.nexteraenergy.com,24
+168,PG&E Corp.,@PGE4Me,,PCG,Geisha J. Williams,"President, Chief Executive Officer & Director",Energy,Utilities: Gas and Electric,San Francisco,http://www.pgecorp.com,24
+169,Synnex,@SYNNEX,,SNX,Dennis Polk,"President, Chief Executive Officer & Director",Wholesalers,Wholesalers: Electronics and Office Equipment,"Fremont, Calif.",http://www.synnex.com,12
+170,WellCare Health Plans,@wellcare_health,,WCG,Kenneth A. Burdick,Chairman & Chief Executive Officer,Health Care,Health Care: Insurance and Managed Care,Tampa,http://www.wellcare.com,10
+171,Performance Food Group,n/a ,,PFGC,George L. Holm,"President, Chief Executive Officer & Director",Wholesalers,Wholesalers: Food and Grocery,"Richmond, Va.",http://www.pfgc.com,10
+172,Sears Holdings,@SearsHoldings,,SHLD,Edward S. Lampert,Chairman & Chief Executive Officer,Retailing,General Merchandisers,"Hoffman Estates, Ill.",http://www.searsholdings.com,24
+173,Synchrony Financial,@synchrony,,SYF,Margaret M. Keane,"President, Chief Executive Officer & Director",Financials,Diversified Financials,"Stamford, Conn.",http://www.synchronyfinancial.com,2
+174,CarMax,@carmax,,KMX,William D. Nash,"President, Chief Executive Officer & Director",Retailing,"Automotive Retailing, Services","Richmond, Va.",http://www.carmax.com,15
+175,Bank of New York Mellon,@bnymellon,,BK,Charles W. Scharf,Chairman & Chief Executive Officer,Financials,Commercial Banks,New York City,www.bnymellon.com,24
+176,Freeport-McMoRan,n/a ,,FCX,Richard C. Adkerson,"Vice Chairman, President & Chief Executive Officer",Energy,"Mining, Crude-Oil Production",Phoenix,http://www.fcx.com,13
+177,Genuine Parts,@napaknowhow,,GPC,Paul D. Donahue,"President, Chief Executive Officer & Director",Wholesalers,Wholesalers: Diversified,Atlanta,http://www.genpt.com,24
+178,Emerson Electric,@emerson_news,,EMR,David N. Farr,Chairman & Chief Executive Officer,Industrials,Industrial Machinery,St. Louis,http://www.emerson.com,24
+179,DaVita,@DaVita,,DVA,Kent J. Thiry,Chairman & Chief Executive Officer,Health Care,Health Care: Medical Facilities,Denver,http://www.davita.com,12
+180,Supervalu,@supervalupr,,SVU,Mark Gross,"President, Chief Executive Officer & Director",Food & Drug Stores,Food and Drug Stores,"Eden Prairie, Minn.",http://www.supervalu.com,24
+181,Gap,@Gap,,GPS,Arthur L. Peck,"President, Chief Executive Officer & Director",Retailing,Specialty Retailers: Apparel,San Francisco,http://www.gapinc.com,24
+182,General Mills,@generalmills,,GIS,Jeffrey L. Harmening,Chairman & Chief Executive Officer,"Food, Beverages & Tobacco",Food Consumer Products,Minneapolis,http://www.generalmills.com,24
+183,Nordstrom,@Nordstrom,,JWN,Blake W. Nordstrom,Co-President & Director,Retailing,General Merchandisers,Seattle,http://www.nordstrom.com,24
+184,Colgate-Palmolive,@colgate,,CL,Ian M. Cook,"Chairman, President & Chief Executive Officer",Household Products,Household and Personal Products,New York City,http://www.colgatepalmolive.com,24
+185,American Electric Power,@aepnews,,AEP,Nicholas K. Akins,"Chairman, President & Chief Executive Officer",Energy,Utilities: Gas and Electric,"Columbus, Ohio",http://www.aep.com,24
+186,XPO Logistics,@xpologistics,,XPO,Bradley S. Jacobs,Chairman & Chief Executive Officer,Transportation,Transportation and Logistics,"Greenwich, Conn.",http://www.xpo.com,3
+187,Goodyear Tire & Rubber,@goodyear,,GT,Richard J. Kramer,"Chairman, President & Chief Executive Officer",Motor Vehicles & Parts,Motor Vehicles and Parts,"Akron, Ohio",http://www.goodyear.com,24
+188,Omnicom Group,@omnicom,,OMC,John D. Wren,"President, Chief Executive Officer & Director",Business Services,"Advertising, marketing",New York City,http://www.omnicomgroup.com,22
+189,CDW,@CDWCorp,,CDW,Thomas E. Richards,"Chairman, President & Chief Executive Officer",Technology,Information Technology Services,"Lincolnshire, Ill.",http://www.cdw.com,14
+190,Sherwin-Williams,@sherwinwilliams,,SHW,John G. Morikis,"Chairman, President & Chief Executive Officer",Chemicals,Chemicals,Cleveland,http://www.sherwin.com,24
+191,PPG Industries,@ppg,,PPG,Michael H. McGarry,Chairman & Chief Executive Officer,Chemicals,Chemicals,Pittsburgh,http://www.ppg.com,24
+192,Texas Instruments,@TXInstruments,,TXN,Brian T. Crutcher,"Chairman, President & Chief Executive Officer",Technology,Semiconductors and Other Electronic Components,Dallas,http://www.ti.com,24
+193,C.H. Robinson Worldwide,@chrobinsoninc,,CHRW,John P. Wiehoff,"Chairman, President & Chief Executive Officer",Transportation,Transportation and Logistics,"Eden Prairie, Minn.",http://www.chrobinson.com,17
+194,WestRock,@westrock,,WRK,Steven C. Voorhees,"President, Chief Executive Officer & Director",Materials,"Packaging, Containers",Atlanta,http://www.westrock.com,7
+195,Cognizant Technology Solutions,@cognizant,,CTSH,Francisco D'Souza,Chairman & Chief Executive Officer,Technology,Information Technology Services,"Teaneck, N.J.",http://www.cognizant.com,8
+196,Newell Brands,@newell_brands,,NWL,Michael B. Polk,Chairman & Chief Executive Officer,Household Products,"Home Equipment, Furnishings","Hoboken, N.J.",http://www.newellbrands.com,23
+197,CBS,@cbs,,CBS,Leslie Moonves,"Chairman, President & Chief Executive Officer",Media,Entertainment,New York City,http://www.cbscorporation.com,24
+198,Envision Healthcare,@EnvisionLeads,,EVHC,Christopher A. Holden,"President, Chief Executive Officer & Director",Health Care,Health Care: Pharmacy and Other Services,Nashville,http://www.evhc.net,1
+199,Monsanto,@MonsantoCo,,MON,Hugh Grant,Chairman & Chief Executive Officer,Chemicals,Chemicals,St. Louis,http://www.monsanto.com,15
+200,Aramark,@aramark,,ARMK,Eric J. Foss,"Chairman, President & Chief Executive Officer",Business Services,Diversified Outsourcing Services,Philadelphia,http://www.aramark.com,24
+201,Applied Materials,@applied_blog,,AMAT,Gary E. Dickerson,"President, Chief Executive Officer & Director",Technology,Semiconductors and Other Electronic Components,"Santa Clara, Calif.",http://www.appliedmaterials.com,23
+202,Waste Management,@WasteManagement,,WM,James C. Fish Jr.,"President, Chief Executive Officer & Director",Business Services,Waste Management,Houston,http://www.wm.com,20
+203,DISH Network,@dish,,DISH,W. Erik Carlson,"President, Chief Executive Officer & Director",Telecommunications,Telecommunications,"Englewood, Colo.",http://www.dish.com,17
+204,Illinois Tool Works,n/a ,,ITW,E. Scott Santi,"Chairman, President & Chief Executive Officer",Industrials,Industrial Machinery,"Glenview, Ill.",http://www.itw.com,24
+205,Lincoln National,@lincolnfingroup,,LNC,Dennis R. Glass,"President, Chief Executive Officer & Director",Financials,"Insurance: Life, Health (stock)","Radnor, Pa.",http://www.lfg.com,24
+206,HollyFrontier,n/a ,,HFC,George J. Damiris,"President, Chief Executive Officer & Director",Energy,Petroleum Refining,Dallas,http://www.hollyfrontier.com,11
+207,CBRE Group,@cbre,,CBRE,Robert E. Sulentic,"President, Chief Executive Officer & Director",Financials,Real estate,Los Angeles,http://www.cbre.com,11
+208,Textron,@textron,,TXT,Scott C. Donnelly,"Chairman, President & Chief Executive Officer",Aerospace & Defense,Aerospace and Defense,"Providence, R.I.",http://www.textron.com,24
+209,Ross Stores,n/a ,,ROST,Barbara Rentler,Chairman & Chief Executive Officer,Retailing,Specialty Retailers: Apparel,"Dublin, Calif.",http://www.rossstores.com,16
+210,Principal Financial,@principal,,PFG,Daniel J. Houston,"Chairman, President & Chief Executive Officer",Financials,"Insurance: Life, Health (stock)","Des Moines, Iowa",http://www.principal.com,24
+211,D.R. Horton,@drhorton,,DHI,David V. Auld,"President, Chief Executive Officer & Director",Engineering & Construction,Homebuilders,"Arlington, Texas",http://www.drhorton.com,16
+212,Marsh & McLennan,@mmc_global,,MMC,Daniel S. Glaser,"President, Chief Executive Officer & Director",Financials,Diversified Financials,New York City,http://www.mmc.com,24
+213,Devon Energy,@DevonEnergy,,DVN,David A. Hager,"President, Chief Executive Officer & Director",Energy,"Mining, Crude-Oil Production",Oklahoma City,http://www.devonenergy.com,17
+214,AES,@TheAESCorp,,AES,Andres R. Gluski,"President, Chief Executive Officer & Director",Energy,Utilities: Gas and Electric,"Arlington, Va.",http://www.aes.com,18
+215,Ecolab,@Ecolab,,ECL,Douglas M. Baker Jr.,Chairman & Chief Executive Officer,Chemicals,Chemicals,"St. Paul, Minn.",http://www.ecolab.com,16
+216,Land O’Lakes,@LandOLakesKtchn,,,Christopher J. Policinski,"President, Chief Executive Officer & Director","Food, Beverages & Tobacco",Food Consumer Products,"Arden Hills, Minn.",http://www.landolakesinc.com,16
+217,Loews,@lowes,,L,James S. Tisch,"President, Chief Executive Officer & Director",Financials,Insurance: Property and Casualty (Stock),New York City,http://www.loews.com,24
+218,Kinder Morgan,@Kinder_Morgan,,KMI,Steven J. Kean,"President, Chief Executive Officer & Director",Energy,Pipelines,Houston,http://www.kindermorgan.com,15
+219,FirstEnergy,@firstenergycorp,,FE,Charles E. Jones,"President, Chief Executive Officer & Director",Energy,Utilities: Gas and Electric,"Akron, Ohio",http://www.firstenergycorp.com,23
+220,Occidental Petroleum,@oxy_petroleum,,OXY,Vicki A. Hollub,"President, Chief Executive Officer & Director",Energy,"Mining, Crude-Oil Production",Houston,http://www.oxy.com,24
+221,Viacom,@Viacom,,VIAB,Robert M. Bakish,"President, Chief Executive Officer & Director",Media,Entertainment,New York City,http://www.viacom.com,13
+222,PayPal Holdings,@PayPal,,PYPL,Daniel H. Schulman,"President, Chief Executive Officer & Director",Business Services,Financial Data Services,"San Jose, Calif.",http://www.paypal.com,3
+223,NGL Energy Partners,n/a,,NGL,H. Michael Krimbill,Chief Executive Officer & Director,Energy,Energy,"Tulsa, Okla.",http://www.nglenergypartners.com,4
+224,Celgene,@Celgene,,CELG,Mark J. Alles,Chairman & Chief Executive Officer,Health Care,Pharmaceuticals,"Summit, N.J.",http://www.celgene.com,7
+225,Arconic,@Alcoa,,ARNC,Charles P. Blankenship,Chairman & Chief Executive Officer,Aerospace & Defense,Aerospace and Defense,New York City,http://www.arconic.com,24
+226,Kellogg,@kelloggsus,,K,Steven A. Cahillane,"Chairman, President & Chief Executive Officer","Food, Beverages & Tobacco",Food Consumer Products,"Battle Creek, Mich.",http://www.kelloggcompany.com,24
+227,Las Vegas Sands,@lasvegassands,,LVS,Sheldon G. Adelson,Chairman & Chief Executive Officer,"Hotels, Restaurants & Leisure","Hotels, Casinos, Resorts",Las Vegas,http://www.sands.com,9
+228,Stanley Black & Decker,@StanleyBlkDeckr,,SWK,James M. Loree,"President, Chief Executive Officer & Director",Household Products,"Home Equipment, Furnishings","New Britain, Conn.",http://www.stanleyblackanddecker.com,11
+229,Booking Holdings,@BookingHoldings,,BKNG,Glenn D. Fogel,"President, Chief Executive Officer & Director",Technology,Internet Services and Retailing,"Norwalk, Conn.",http://www.bookingholdings.com,6
+230,Lennar,@Lennar,,LEN,Richard Beckwitt,Chief Executive Officer & Director,Engineering & Construction,Homebuilders,Miami,http://www.lennar.com,14
+231,L Brands,@L_Brands,,LB,Leslie H. Wexner,"Chairman, President & Chief Executive Officer",Retailing,Specialty Retailers: Apparel,"Columbus, Ohio",http://www.lb.com,24
+232,DTE Energy,@DTE_Energy,,DTE,Gerard M. Anderson,Chairman & Chief Executive Officer,Energy,Utilities: Gas and Electric,Detroit,http://www.dteenergy.com,24
+233,Dominion Energy,@DominionEnergy,,D,Thomas F. Farrell II,"Chairman, President & Chief Executive Officer",Energy,Utilities: Gas and Electric,"Richmond, Va.q",www.dominionenergy.com,24
+234,Reinsurance Group of America,@RGA_RE,,RGA,Anna Manning,"President, Chief Executive Officer & Director",Financials,"Insurance: Life, Health (stock)","Chesterfield, Mo.",http://www.rgare.com,9
+235,J.C. Penney,@JCPenneyCareers,,JCP,Jeffrey A. Davis/Joseph M. McFarland/Therace M. Risch,Chairman & Chief Executive Officer,Retailing,General Merchandisers,"Plano, Texas",http://www.jcpenney.com,24
+236,Mastercard,@Mastercard,,MA,Ajay Banga,"President, Chief Executive Officer & Director",Business Services,Financial Data Services,"Purchase, N.Y.",http://www.mastercard.com,10
+237,BlackRock,@blackrock,,BLK,Laurence D. Fink,Chairman & Chief Executive Officer,Financials,Securities,New York City,http://www.blackrock.com,11
+238,Henry Schein,@HenrySchein,,HSIC,Stanley M. Bergman,Chairman & Chief Executive Officer,Wholesalers,Wholesalers: Health Care,"Melville, N.Y.",http://www.henryschein.com,15
+239,Guardian Life Ins. Co. of America,@guardianlife,,,Deanna M. Mulligan,"President, Chief Executive Officer & Director",Financials,"Insurance: Life, Health (Mutual)",New York City,http://www.guardianlife.com,24
+240,Stryker,@stryker_jobs,,SYK,Kevin A. Lobo,Chairman & Chief Executive Officer,Health Care,Medical Products and Equipment,"Kalamazoo, Mich.",http://www.stryker.com,16
+241,Jefferies Financial Group,@jefferiesevents,,JEF,Richard B. Handler,Chairman & Chief Executive Officer,Financials,Diversified Financials,New York City,http://www.jefferies.com,6
+242,VF,@vfcorp,,VFC,Steven E. Rendle,"Chairman, President & Chief Executive Officer",Apparel,Apparel,"Greensboro, N.C.",http://www.vfc.com,24
+243,ADP,@ADP,,ADP,Carlos A. Rodriguez,"President, Chief Executive Officer & Director",Business Services,Diversified Outsourcing Services,"Roseland, N.J.",http://www.adp.com,24
+244,Edison International,@edisonintl,,EIX,Pedro J. Pizarro,"President, Chief Executive Officer & Director",Energy,Utilities: Gas and Electric,"Rosemead, Calif.",http://www.edisoninvestor.com,24
+245,Biogen,@biogen,,BIIB,Michel Vounatsos,Chairman & Chief Executive Officer,Health Care,Pharmaceuticals,"Cambridge, Mass.",http://www.biogen.com,9
+246,United States Steel,@U_S_Steel,,X,David B. Burritt,"President, Chief Executive Officer & Director",Materials,Metals,Pittsburgh,http://www.ussteel.com,16
+247,Core-Mark Holding,@CoreMarkHQ,,CORE,Thomas B. Perkins,Chairman & Chief Executive Officer,Wholesalers,Wholesalers: Food and Grocery,"South San Francisco, Calif.",http://www.core-mark.com,9
+248,Bed Bath & Beyond,@BedBathBeyond,,BBBY,Steven H. Temares,Chief Executive Officer & Director,Retailing,Specialty Retailers: Other,"Union, N.J.",http://www.bedbathandbeyond.com,15
+249,Oneok,n/a,,OKE,Terry K. Spencer,"President, Chief Executive Officer & Director",Energy,Pipelines,"Tulsa, Okla.",http://www.oneok.com,16
+250,BB&T Corp.,@askBBT,,BBT,Kelly S. King,Chairman & Chief Executive Officer,Financials,Commercial Banks,"Winston-Salem, N.C.",http://www.bbt.com,20
+251,Becton Dickinson,@bdandco,,BDX,Vincent A. Forlenza,Chairman & Chief Executive Officer,Health Care,Medical Products and Equipment,"Franklin Lakes, N.J.",http://www.bd.com,24
+252,Ameriprise Financial,@ameriprise,,AMP,James M. Cracchiolo,Chairman & Chief Executive Officer,Financials,Diversified Financials,Minneapolis,http://www.ameriprise.com,12
+253,Farmers Insurance Exchange,@WeAreFarmers,,,Jeffrey J. Dailey,"President, Chief Executive Officer & Director",Financials,Insurance: Property and Casualty (Mutual),"Woodland Hills, Calif.",http://www.farmers.com,4
+254,First Data,@FirstData,,FDC,Frank J. Bisignano,Chairman & Chief Executive Officer,Business Services,Financial Data Services,New York City,http://www.firstdata.com,24
+255,Consolidated Edison,@ConEdison,,ED,John McAvoy,"Chairman, President & Chief Executive Officer",Energy,Utilities: Gas and Electric,New York City,http://www.conedison.com,24
+256,Parker-Hannifin,n/a,,PH,Thomas L. Williams,Chairman & Chief Executive Officer,Industrials,Industrial Machinery,Cleveland,http://www.parker.com,24
+257,Anadarko Petroleum,n/a,,APC,R. A. Walker,"Chairman, President & Chief Executive Officer",Energy,"Mining, Crude-Oil Production","The Woodlands, Texas",http://www.anadarko.com,18
+258,Estee Lauder,@EsteeLauder,,EL,Fabrizio Freda,"President, Chief Executive Officer & Director",Household Products,Household and Personal Products,New York City,http://www.elcompanies.com,23
+259,State Street Corp.,@StateStreet,,STT,Joseph L. Hooley,Chairman & Chief Executive Officer,Financials,Commercial Banks,Boston,http://www.statestreet.com,23
+260,Tesla,@Tesla,,TSLA,Elon Musk,Chairman & Chief Executive Officer,Motor Vehicles & Parts,Motor Vehicles and Parts,"Palo Alto, Calif.",http://www.tesla.com,2
+261,Netflix,@netflix,,NFLX,Reed Hastings,"Chairman, President & Chief Executive Officer",Technology,Internet Services and Retailing,"Los Gatos, Calif.",http://www.netflix.com,4
+262,Alcoa,@Alcoa,,AA,Roy C. Harvey,"President, Chief Executive Officer & Director",Materials,Metals,Pittsburgh,http://www.alcoa.com,2
+263,Discover Financial Services,@discover,,DFS,David W. Nelms,Chairman & Chief Executive Officer,Financials,Commercial Banks,"Riverwoods, Ill.",http://www.discover.com,10
+264,Praxair,@PraxairInc,,PX,Stephen F. Angel,Chairman & Chief Executive Officer,Chemicals,Chemicals,"Danbury, Conn.",http://www.praxair.com,24
+265,CSX,n/a,,CSX,James M. Foote,"President, Chief Executive Officer & Director",Transportation,Railroads,"Jacksonville, Fla.",http://www.csx.com,24
+266,Xcel Energy,@xcelenergymn,,XEL,Benjamin G.S. Fowke III,"Chairman, President & Chief Executive Officer",Energy,Utilities: Gas and Electric,Minneapolis,http://www.xcelenergy.com,22
+267,Unum Group,@unumrecruit ‏,,UNM,Richard P. McKenney,"President, Chief Executive Officer & Director",Financials,"Insurance: Life, Health (stock)","Chattanooga, Tenn.",http://www.unum.com,23
+268,Universal Health Services,@uhs_inc,,UHS,Alan B. Miller,Chairman & Chief Executive Officer,Health Care,Health Care: Medical Facilities,"King of Prussia, Pa.",http://www.uhsinc.com,15
+269,NRG Energy,@nrgenergy,,NRG,Mauricio Gutierrez,"President, Chief Executive Officer & Director",Energy,Energy,"Princeton, N.J.",http://www.nrg.com,12
+270,EOG Resources,n/a,,EOG,William R. Thomas,Chairman & Chief Executive Officer,Energy,"Mining, Crude-Oil Production",Houston,http://www.eogresources.com,10
+271,Sempra Energy,@SempraEnergy,,SRE,J. Walker Martin,Chairman & Chief Executive Officer,Energy,Utilities: Gas and Electric,San Diego,http://www.sempra.com,20
+272,Toys “R” Us,n/a (shuttered),,n/a (shuttered),David A. Brandon,Chairman & Chief Executive Officer,Retailing,Specialty Retailers: Other,"Wayne, N.J.",http://www.toysrusinc.com,24
+273,Group Automotive,@Group1Auto,,GPI,Earl J. Hesterberg,"President, Chief Executive Officer & Director",Retailing,"Automotive Retailing, Services",Houston,http://www.group1auto.com,18
+274,Entergy,@Entergy,,ETR,Leo P. Denault,Chairman & Chief Executive Officer,Energy,Utilities: Gas and Electric,New Orleans,http://www.entergy.com,24
+275,Molson Coors Brewing,@MolsonCoors,,TAP,Mark R. Hunter,"President, Chief Executive Officer & Director","Food, Beverages & Tobacco",Beverages,Denver,http://www.molsoncoors.com,8
+276,L3 Technologies,n/a,,LLL,Christopher E. Kubasik,"President, Chief Executive Officer & Director",Aerospace & Defense,Aerospace and Defense,New York City,http://www.l3t.com,16
+277,Ball,@BallCorpHQ,,BLL,John A. Hayes,"Chairman, President & Chief Executive Officer",Materials,"Packaging, Containers","Broomfield, Colo.",http://www.ball.com,22
+278,AutoZone,@autozone,,AZO,William C. Rhodes III,"Chairman, President & Chief Executive Officer",Retailing,Specialty Retailers: Other,Memphis,http://www.autozone.com,20
+279,Murphy USA,@MurphyUSA,,MUSA,R. Andrew Clyde,"President, Chief Executive Officer & Director",Retailing,Specialty Retailers: Other,"El Dorado, Ark.",http://www.murphyusa.com,5
+280,MGM Resorts International,@mgmresortsintl,,MGM,James J. Murren,Chairman & Chief Executive Officer,"Hotels, Restaurants & Leisure","Hotels, Casinos, Resorts",Las Vegas,http://www.mgmresorts.com,18
+281,Office Depot,@officedepot,,ODP,Gerry P. Smith,Chairman & Chief Executive Officer,Retailing,Specialty Retailers: Other,"Boca Raton, Fla.",http://www.officedepot.com,24
+282,Huntsman,@Huntsman_Corp,,HUN,Peter R. Huntsman,"Chairman, President & Chief Executive Officer",Chemicals,Chemicals,"The Woodlands, Texas",http://www.huntsman.com,13
+283,Baxter International,@baxter_intl,,BAX,Jose E. Almeida,"Chairman, President & Chief Executive Officer",Health Care,Medical Products and Equipment,"Deerfield, Ill.",http://www.baxter.com,24
+284,Norfolk Southern,@nscorp,,NSC,James A. Squires,"Chairman, President & Chief Executive Officer",Transportation,Railroads,"Norfolk, Va.",http://www.norfolksouthern.com,24
+285,salesforce.com,@salesforce,,CRM,Marc R. Benioff,Chairman & Chief Executive Officer,Technology,Computer Software,San Francisco,http://www.salesforce.com,4
+286,Laboratory Corp. of America,@labcorp,,LH,David P. King,"Chairman, President & Chief Executive Officer",Health Care,Health Care: Pharmacy and Other Services,"Burlington, N.C.",http://www.labcorp.com,9
+287,W.W. Grainger,@grainger,,GWW,Donald G. MacPherson,Chairman & Chief Executive Officer,Wholesalers,Wholesalers: Diversified,"Lake Forest, Ill.",http://www.grainger.com,24
+288,Qurate Retail,@QurateRetailGrp,,QRTEA,Gregory B. Maffei,Chairman,Retailing,Internet Services and Retailing,"Englewood, Colo.",http://www.libertyinteractive.com,14
+289,Autoliv,@autolivinc,,ALV,Jan Carlson,"Chairman, President & Chief Executive Officer",Motor Vehicles & Parts,Motor Vehicles and Parts,"Auburn Hills, Mich.",http://www.autoliv.com,20
+290,Live Nation Entertainment,@LiveNation,,LYV,Michael Rapino,"President, Chief Executive Officer & Director",Media,Entertainment,"Beverly Hills, Calif.",http://www.livenationentertainment.com,9
+291,Xerox,@Xerox,,XRX,John Visentin,Chairman & Chief Executive Officer,Technology,"Computers, Office Equipment","Norwalk, Conn.",http://www.xerox.com,24
+292,Leidos Holdings,@leidosinc,,LDOS,Roger A. Krone,Chairman & Chief Executive Officer,Technology,Information Technology Services,"Reston, Va.",http://www.leidos.com,18
+293,Corning,@Corning,,GLW,Wendell P. Weeks,"Chairman, President & Chief Executive Officer",Industrials,"Electronics, Electrical Equip.","Corning, N.Y.",http://www.corning.com,23
+294,Lithia Motors,@lithiamotors,,LAD,Bryan B. DeBoer,"President, Chief Executive Officer & Director",Retailing,"Automotive Retailing, Services","Medford, Ore.",http://www.lithiainvestorrelations.com,4
+295,Expedia Group,@expedia,,EXPE,Mark D. Okerstrom,"President, Chief Executive Officer & Director",Retailing,Internet Services and Retailing,"Bellevue, Wash.",http://www.expediagroup.com,4
+296,Republic Services,@RepublicService,,RSG,Donald W. Slager,"President, Chief Executive Officer & Director",Business Services,Waste Management,Phoenix,http://www.republicservices.com,9
+297,Jacobs Engineering Group,@jacobsconnects,,JEC,Steven J. Demetriou,"Chairman, President & Chief Executive Officer",Engineering & Construction,"Engineering, Construction",Dallas,http://www.jacobs.com,18
+298,Sonic Automotive,@SonicAutomotive,,SAH,B. Scott Smith,"President, Chief Executive Officer & Director",Retailing,"Automotive Retailing, Services","Charlotte, N.C.",http://www.sonicautomotive.com,19
+299,Ally Financial,@ally,,ALLY,Jeffrey J. Brown,Chairman & Chief Executive Officer,Financials,Diversified Financials,Detroit,http://www.ally.com,11
+300,LKQ,@lkqcorp,,LKQ,Dominick P. Zarcone,"President, Chief Executive Officer & Director",Wholesalers,Wholesalers: Diversified,Chicago,http://www.lkqcorp.com,5
+301,BorgWarner,@BorgWarner,,BWA,James R. Verrier,"President, Chief Executive Officer & Director",Motor Vehicles & Parts,Motor Vehicles and Parts,"Auburn Hills, Mich.",http://www.borgwarner.com,12
+302,Fidelity National Financial,n/a,,FNF,Raymond R. Quirk,Chairman & Chief Executive Officer,Financials,Insurance: Property and Casualty (Stock),"Jacksonville, Fla.",http://www.fnf.com,11
+303,SunTrust Banks,@SunTrust,,STI,William H. Rogers Jr.,Chairman & Chief Executive Officer,Financials,Commercial Banks,Atlanta,http://www.suntrust.com,24
+304,IQVIA Holdings,@IQVIA_global,,,Ari Bousbib,"Chairman, President & Chief Executive Officer",Health Care,Health Care: Pharmacy and Other Services,"Durham, N.C.",www.iqvia.com,5
+305,Reliance Steel & Aluminum,n/a,,RS,Gregg J. Mollins,"President, Chief Executive Officer & Director",Materials,Metals,Los Angeles,http://www.rsac.com,12
+306,Nvidia,@nvidia,,NVDA,Jen-Hsun Huang,"President, Chief Executive Officer & Director",Technology,Semiconductors and Other Electronic Components,"Santa Clara, Calif.",http://www.nvidia.com,2
+307,Voya Financial,@voya,,VOYA,Rodney O. Martin Jr.,Chairman & Chief Executive Officer,Financials,Diversified Financials,New York City,http://www.voya.com,4
+308,CenterPoint Energy,@energyinsights,,CNP,Scott M. Prochazka,"President, Chief Executive Officer & Director",Energy,Utilities: Gas and Electric,Houston,http://www.centerpointenergy.com,24
+309,eBay,@eBay,,EBAY,Devin N. Wenig,"President, Chief Executive Officer & Director",Technology,Internet Services and Retailing,"San Jose, Calif.",http://www.ebay.com,13
+310,Eastman Chemical,@EastmanChemCo,,EMN,Mark J. Costa,Chairman & Chief Executive Officer,Chemicals,Chemicals,"Kingsport, Tenn.",http://www.eastman.com,24
+311,American Family Insurance Group,@amfam,,,Jack C. Salzwedel,Chairman & Chief Executive Officer,Financials,Insurance: Property and Casualty (Stock),"Madison, Wis.",http://www.amfam.com,22
+312,Steel Dynamics,n/a,,STLD,Mark D. Millett,"President, Chief Executive Officer & Director",Materials,Metals,"Fort Wayne, Ind.",http://www.steeldynamics.com,9
+313,Pacific Life,@pacificlife,,,James T. Morris,"Chairman, President & Chief Executive Officer",Financials,"Insurance: Life, Health (stock)","Newport Beach, Calif.",http://www.pacificlife.com,22
+314,Chesapeake Energy,@chesapeake,,CHK,Robert D. Lawler,"President, Chief Executive Officer & Director",Energy,"Mining, Crude-Oil Production",Oklahoma City,http://www.chk.com,13
+315,Mohawk Industries,@mhkgreenworks,,MHK,Jeffrey S. Lorberbaum,Chairman & Chief Executive Officer,Household Products,"Home Equipment, Furnishings","Calhoun, Ga.",http://www.mohawkind.com,19
+316,Quanta Services,@quanta_services,,PWR,Earl C. Austin Jr.,"President, Chief Executive Officer & Director",Engineering & Construction,"Engineering, Construction",Houston,http://www.quantaservices.com,6
+317,Advance Auto Parts,@advanceauto,,AAP,Thomas R. Greco,"President, Chief Executive Officer & Director",Retailing,Specialty Retailers: Other,"Roanoke, Va.",http://www.advanceautoparts.com,16
+318,Owens & Minor,@owens_minor,,OMI,P. Cody Phipps,"Chairman, President & Chief Executive Officer",Wholesalers,Wholesalers: Health Care,"Mechanicsville, Va.",http://www.owens-minor.com,24
+319,United Natural Foods,https://twitter.com/UNFI,,UNFI,Steven L. Spinner,"Chairman, President & Chief Executive Officer",Wholesalers,Wholesalers: Food and Grocery,"Providence, R.I.",http://www.unfi.com,6
+320,Tenneco,@tennecoam_emea,,TEN,Brian J. Kesseler,Chief Executive Officer & Director,Motor Vehicles & Parts,Motor Vehicles and Parts,"Lake Forest, Ill.",http://www.tenneco.com,24
+321,Conagra Brands,@conagrabrands,,CAG,Sean M. Connolly,"President, Chief Executive Officer & Director","Food, Beverages & Tobacco",Food Consumer Products,Chicago,http://www.conagrabrands.com,24
+322,GameStop,@GameStop,,GME,Shane S. Kim,Interim Chief Executive Officer,Retailing,Specialty Retailers: Other,"Grapevine, Texas",http://www.gamestop.com,12
+323,Hormel Foods,@hormelfoods,,HRL,James P. Snee,"Chairman, President & Chief Executive Officer","Food, Beverages & Tobacco",Food Consumer Products,"Austin, Minn.",http://www.hormelfoods.com,24
+324,Hilton Worldwide Holdings,@hiltonworld,,HLT,Christopher J. Nassetta,"President, Chief Executive Officer & Director","Hotels, Restaurants & Leisure","Hotels, Casinos, Resorts","McLean, Va.",http://www.hiltonworldwide.com,15
+325,Frontier Communications,@frontiercorp,,FTR,Daniel J. McCarthy,"President, Chief Executive Officer & Director",Telecommunications,Telecommunications,"Norwalk, Conn.",http://www.frontier.com,5
+326,Fidelity National Information Services,@fisglobal,,FIS,Gary A. Norcross,"President, Chief Executive Officer & Director",Business Services,Financial Data Services,"Jacksonville, Fla.",http://www.fisglobal.com,9
+327,Public Service Enterprise Group,@PSEGNews,,PEG,Ralph Izzo,"Chairman, President & Chief Executive Officer",Energy,Utilities: Gas and Electric,"Newark, N.J.",http://www.pseg.com,24
+328,Boston Scientific,@bostonsci,,BSX,Michael F. Mahoney,"Chairman, President & Chief Executive Officer",Health Care,Medical Products and Equipment,"Marlborough, Mass.",http://www.bostonscientific.com,15
+329,O’Reilly Automotive,@oreillyauto,,ORLY,Gregory D. Johnson,"President, Chief Executive Officer & Director",Retailing,Specialty Retailers: Other,"Springfield, Mo.",http://www.oreillyauto.com,9
+330,Charles Schwab,@charlesschwab,,SCHW,Walter W. Bettinger II,"President, Chief Executive Officer & Director",Financials,Securities,San Francisco,http://www.aboutschwab.com,20
+331,Global Partners,n/a,,GLP,Eric Slifka,"President, Chief Executive Officer & Director",Wholesalers,Wholesalers: Diversified,"Waltham, Mass.",http://www.globalp.com,12
+332,PVH,@PVHCorp,,PVH,Emanuel Chirico,Chairman & Chief Executive Officer,Apparel,Apparel,New York City,http://www.pvh.com,8
+333,Avis Budget Group,@goavisbudget,,CAR,Larry D. De Shon,"President, Chief Executive Officer & Director",Retailing,"Automotive Retailing, Services","Parsippany, N.J.",http://www.avisbudgetgroup.com,21
+334,Targa Resources,n/a,,TRGP,Joe Bob Perkins,Chairman & Chief Executive Officer,Energy,Pipelines,Houston,http://www.targaresources.com,10
+335,Hertz Global Holdings,@hertz,,HTZ,Kathryn V. Marinello,"President, Chief Executive Officer & Director",Retailing,"Automotive Retailing, Services","Estero, Fla.",http://www.hertz.com,11
+336,Calpine,@calpinecareers,,,John B. Hill III,"President, Chief Executive Officer & Director",Energy,Energy,Houston,http://www.calpine.com,17
+337,Mutual of Omaha Insurance,@mutualofomaha,,,James T. Blackledge,"Chairman, President & Chief Executive Officer",Financials,"Insurance: Life, Health (stock)",Omaha,http://www.mutualofomaha.com,22
+338,Crown Holdings,@crowncork_jobs,,CCK,Timothy J. Donahue,"President, Chief Executive Officer & Director",Materials,"Packaging, Containers",Philadelphia,http://www.crowncork.com,24
+339,Peter Kiewit Sons’,@kiewit,,,Bruce E. Grewcock,"President, Chief Executive Officer & Director",Engineering & Construction,"Engineering, Construction",Omaha,http://www.kiewit.com,19
+340,Dick’s Sporting Goods,@dicks,,DKS,Edward W. Stack,Chairman & Chief Executive Officer,Retailing,Specialty Retailers: Other,"Coraopolis, Pa.",http://www.dicks.com,9
+341,PulteGroup,@PulteHomes,,PHM,Ryan R. Marshall,"President, Chief Executive Officer & Director",Engineering & Construction,Homebuilders,Atlanta,http://www.pultegroupinc.com,16
+342,Navistar International,n/a,,NAV,Troy A. Clarke,"Chairman, President & Chief Executive Officer",Industrials,Construction and Farm Machinery,"Lisle, Ill.",http://www.navistar.com,22
+343,Thrivent Financial for Lutherans,@Thrivent,,,Bradford L. Hewitt,Chief Executive Officer & Director,Financials,"Insurance: Life, Health (Mutual)",Minneapolis,http://www.thrivent.com,24
+344,DCP Midstream,@dcpmidstreamlp,,DCP,Wouter T. van Kempen,"Chairman, President & Chief Executive Officer",Energy,Pipelines,Denver,http://www.dcpmidstream.com,1
+345,Air Products & Chemicals,@airproducts,,APD,Seifi Ghasemi,"Chairman, President & Chief Executive Officer",Chemicals,Chemicals,"Allentown, Pa.",http://www.airproducts.com,24
+346,Veritiv,@Veritiv,,VRTV,Mary A. Laschinger,Chairman & Chief Executive Officer,Wholesalers,Wholesalers: Diversified,Atlanta,http://www.veritivcorp.com,3
+347,AGCO,@AGCOcorp,,AGCO,Martin H. Richenhagen,"Chairman, President & Chief Executive Officer",Industrials,Construction and Farm Machinery,"Duluth, Ga.",http://www.agcocorp.com,17
+348,Genworth Financial,@genworth,,GNW,Thomas J. McInerney,"President, Chief Executive Officer & Director",Financials,"Insurance: Life, Health (stock)","Richmond, Va.",http://www.genworth.com,13
+349,Univar,@Univar,,UNVR,David C. Jukes,"President, Chief Executive Officer & Director",Wholesalers,Wholesalers: Diversified,"Downers Grove, Ill.",http://www.univar.com,3
+350,News Corp.,@newscorp,,NWSA,Robert J. Thomson,Chairman & Chief Executive Officer,Media,"Publishing, Printing",New York City,http://www.newscorp.com,4
+351,SpartanNash,n/a,,SPTN,David M. Staples,"President, Chief Executive Officer & Director",Wholesalers,Wholesalers: Food and Grocery,"Byron Center, Mich.",http://www.spartannash.com,8
+352,Westlake Chemical,@WESTLAKECHEM,,WLK,Albert Yuan Chao,"President, Chief Executive Officer & Director",Chemicals,Chemicals,Houston,http://www.westlake.com,1
+353,Williams,@williamsupdates,,WMB,Alan S. Armstrong,"President, Chief Executive Officer & Director",Energy,Energy,"Tulsa, Okla.",http://www.williams.com,24
+354,Lam Research,@LamResearch,,LRCX,Martin B. Anstice,Chairman & Chief Executive Officer,Technology,Semiconductors and Other Electronic Components,"Fremont, Calif.",http://www.lamresearch.com,3
+355,Alaska Air Group,@AAG_CU,,ALK,Bradley D. Tilden,"Chairman, President & Chief Executive Officer",Transportation,Airlines,Seattle,http://www.alaskaair.com,5
+356,Jones Lang LaSalle,@jll,,JLL,Christian Ulbrich,"President, Chief Executive Officer & Director",Financials,Real estate,Chicago,http://www.jll.com,4
+357,Anixter International,@anixter,,AXE,Robert J. Eck,Chairman & Chief Executive Officer,Wholesalers,Wholesalers: Electronics and Office Equipment,"Glenview, Ill.",http://www.anixter.com,16
+358,Campbell Soup,@CampbellSoupCo,,CPB,Denise M. Morrison,"President, Chief Executive Officer & Director","Food, Beverages & Tobacco",Food Consumer Products,"Camden, N.J.",http://www.campbellsoupcompany.com,24
+359,Interpublic Group,@InterpublicIPG,,IPG,Michael I. Roth,Chairman & Chief Executive Officer,Business Services,"Advertising, marketing",New York City,http://www.interpublic.com,21
+360,Dover,@DoverCorp,,DOV,Richard J. Tobin,"President, Chief Executive Officer & Director",Industrials,Industrial Machinery,"Downers Grove, Ill.",http://www.dovercorporation.com,24
+361,Zimmer Biomet Holdings,@zimmerbiomet,,ZBH,Bryan C. Hanson,"President, Chief Executive Officer & Director",Health Care,Medical Products and Equipment,"Warsaw, Ind.",http://www.zimmerbiomet.com,3
+362,Dean Foods,@deanfoods,,DF,Ralph P. Scozzafava,Chairman & Chief Executive Officer,"Food, Beverages & Tobacco",Food Consumer Products,Dallas,http://www.deanfoods.com,20
+363,Foot Locker,@footlocker,,FL,Richard A. Johnson,"Chairman, President & Chief Executive Officer",Retailing,Specialty Retailers: Apparel,New York City,http://www.footlocker-inc.com,24
+364,Eversource Energy,@EversourceCorp,,ES,James J. Judge,"Chairman, President & Chief Executive Officer",Energy,Utilities: Gas and Electric,"Springfield, Mass.",http://www.eversource.com,23
+365,Alliance Data Systems,@AllianceData,,ADS,Edward J. Heffernan,"President, Chief Executive Officer & Director",Business Services,Financial Data Services,"Plano, Texas",http://www.alliancedata.com,4
+366,Fifth Third Bancorp,@FifthThird,,FITB,Greg D. Carmichael,"Chairman, President & Chief Executive Officer",Financials,Commercial Banks,Cincinnati,http://www.53.com,19
+367,Quest Diagnostics,@QuestDX,,DGX,Stephen H. Rusckowski,"Chairman, President & Chief Executive Officer",Health Care,Health Care: Pharmacy and Other Services,"Secaucus, N.J.",http://www.questdiagnostics.com,18
+368,EMCOR Group,@EmcorpGroup,,EME,Anthony J. Guzzi,"President, Chief Executive Officer & Director",Engineering & Construction,"Engineering, Construction","Norwalk, Conn.",http://www.emcorgroup.com,18
+369,W.R. Berkley,@WRBerkleyCorp,,WRB,W. Robert Berkley Jr.,"President, Chief Executive Officer & Director",Financials,Insurance: Property and Casualty (Stock),"Greenwich, Conn.",http://www.wrberkley.com,15
+370,WESCO International,@WESCOCorp,,WCC,John J. Engel,"Chairman, President & Chief Executive Officer",Wholesalers,Wholesalers: Diversified,Pittsburgh,http://www.wesco.com,20
+371,Coty,@cotyinc,,COTY,Camillo Pane,Chairman & Chief Executive Officer,Household Products,Household and Personal Products,New York City,http://www.coty.com,1
+372,WEC Energy Group,@WECEnergyGroup,,WEC,Gale E. Klappa,Chairman & Chief Executive Officer,Energy,Utilities: Gas and Electric,Milwaukee,http://www.wecenergygroup.com,9
+373,Masco,n/a,,MAS,Keith J. Allman,"President, Chief Executive Officer & Director",Household Products,"Home Equipment, Furnishings","Livonia, Mich.",http://www.masco.com,24
+374,DXC Technology,@DXCTechnology,,DXC,J. Michael Lawrie,"Chairman, President & Chief Executive Officer",Technology,Information Technology Services,"Tysons, Va.",http://www.dxc.technology,1
+375,Auto-Owners Insurance,@AutoOwnersIns,,,Jeffrey S. Tagsold,Chief Executive Officer & Director,Financials,Insurance: Property and Casualty (Mutual),"Lansing, Mich.",http://www.auto-owners.com,16
+376,Jones Financial (Edward Jones),@EdwardJones,,,James D. Weddle,Chief Executive Officer & Managing Partner,Financials,Securities,"Des Peres, Mo",www.iqvia.comwww.edwardjones.com,6
+377,Liberty Media,n/a,,LSXMA,Gregory B. Maffei,"President, Chief Executive Officer & Director",Media,Entertainment,"Englewood, Colo.",http://www.libertymedia.com,2
+378,Erie Insurance Group,@erie_insurance,,,Timothy G. NeCastro,Chief Executive Officer,Financials,Insurance: Property and Casualty (Mutual),"Erie, Pa.",http://www.erieinsurance.com,15
+379,Hershey,@Hersheys,,HSY,Michele G. Buck,"President, Chief Executive Officer & Director","Food, Beverages & Tobacco",Food Consumer Products,"Hershey, Pa.",http://www.thehersheycompany.com,24
+380,PPL,@PPLCorp,,PPL,William H. Spence,"Chairman, President & Chief Executive Officer",Energy,Utilities: Gas and Electric,"Allentown, Pa.",http://www.pplweb.com,24
+381,Huntington Ingalls Industries,@HIIndustries,,HII,C. Michael Petters,"President, Chief Executive Officer & Director",Aerospace & Defense,Aerospace and Defense,"Newport News, Va.",http://www.huntingtoningalls.com,6
+382,Mosaic,@mosaicscience,,MOS,James C. O'Rourke,"President, Chief Executive Officer & Director",Chemicals,Chemicals,"Plymouth, Minn.",http://www.mosaicco.com,13
+383,J.M. Smucker,@smuckers,,SJM,Mark T. Smucker,"President, Chief Executive Officer & Director","Food, Beverages & Tobacco",Food Consumer Products,"Orrville, Ohio",http://www.jmsmucker.com,8
+384,Delek US Holdings,n/a,,DK,Ezra Uzi Yemin,"Chairman, President & Chief Executive Officer",Energy,Petroleum Refining,"Brentwood, Tenn.",http://www.delekus.com,4
+385,Newmont Mining,@Newmont,,NEM,Gary J. Goldberg,"President, Chief Executive Officer & Director",Energy,"Mining, Crude-Oil Production","Greenwood Village, Colo.",http://www.newmont.com,15
+386,Constellation Brands,@cbrands,,STZ,Robert S. Sands,Chairman & Chief Executive Officer,"Food, Beverages & Tobacco",Beverages,"Victor, N.Y.",http://www.cbrands.com,6
+387,Ryder System,@RyderSystemInc,,R,Robert E. Sanchez,"Chairman, President & Chief Executive Officer",Transportation,"Trucking, Truck Leasing",Miami,http://www.ryder.com,24
+388,National Oilwell Varco,@NOVGlobal ‏,,NOV,Clay C. Williams,"Chairman, President & Chief Executive Officer",Energy,"Oil and Gas Equipment, Services",Houston,http://www.nov.com,13
+389,Adobe Systems,@Adobe,,ADBE,Shantanu Narayen,"Chairman, President & Chief Executive Officer",Technology,Computer Software,"San Jose, Calif.",http://www.adobe.com,2
+390,LifePoint Health,@LifePointHealth,,LPNT,William F. Carpenter III,Chairman & Chief Executive Officer,Health Care,Health Care: Medical Facilities,"Brentwood, Tenn.",http://www.lifepointhealth.net,4
+391,Tractor Supply,@TractorSupply,,TSCO,Gregory A. Sandfort,Chairman & Chief Executive Officer,Retailing,Specialty Retailers: Other,"Brentwood, Tenn.",http://www.tractorsupply.com,5
+392,Thor Industries,n/a,,THO,Robert W. Martin,"President, Chief Executive Officer & Director",Motor Vehicles & Parts,Motor Vehicles and Parts,"Elkhart, Ind.",http://www.thorindustries.com,1
+393,Dana,@DanaInc_,,DAN,James K. Kamsickas,"President, Chief Executive Officer & Director",Motor Vehicles & Parts,Motor Vehicles and Parts,"Maumee, Ohio",http://www.dana.com,24
+394,Weyerhaeuser,@Weyerhaeuser,,WY,Doyle R. Simons,"President, Chief Executive Officer & Director",Materials,Forest and Paper Products,Seattle,http://www.weyerhaeuser.com,24
+395,J.B. Hunt Transport Services,@jbhuntdrivers,,JBHT,John N. Roberts III,"President, Chief Executive Officer & Director",Transportation,"Trucking, Truck Leasing","Lowell, Ark.",http://www.jbhunt.com,6
+396,Darden Restaurants,@darden,,DRI,Eugene I. Lee Jr.,"President, Chief Executive Officer & Director","Hotels, Restaurants & Leisure",Food Services,Orlando,http://www.darden.com,22
+397,Yum China Holdings,n/a,,YUMC,Joey Wat,Chairman & Chief Executive Officer,"Hotels, Restaurants & Leisure",Food Services,"Plano, Texas",http://ir.yumchina.com,2
+398,Blackstone Group,@blackstone,,BX,Stephen A. Schwarzman,Chairman & Chief Executive Officer,Financials,Diversified Financials,New York City,http://www.blackstone.com,3
+399,Berry Global Group,n/a,,BERY,Thomas E. Salmon,Chairman & Chief Executive Officer,Materials,"Packaging, Containers","Evansville, Ind.",http://www.berryglobal.com,2
+400,Builders FirstSource,@BldrFirstSource,,BLDR,M. Chad Crow,"President, Chief Executive Officer & Director",Materials,"Building Materials, Glass",Dallas,http://www.bldr.com,2
+401,Activision Blizzard,@ATVI_AB,,ATVI,Robert A. Kotick,Chairman & Chief Executive Officer,Technology,Entertainment,"Santa Monica, Calif.",http://www.activisionblizzard.com,2
+402,JetBlue Airways,@JetBlue,,JBLU,Robin Hayes,"President, Chief Executive Officer & Director",Transportation,Airlines,"Long Island City, N.Y.",http://www.jetblue.com,6
+403,Amphenol,@amphenol,,APH,R. Adam Norwitt,"President, Chief Executive Officer & Director",Technology,Network and Other Communications Equipment,"Wallingford, Conn.",http://www.amphenol.com,4
+404,A-Mark Precious Metals,n/a,,AMRK,Gregory N. Roberts,Chairman & Chief Executive Officer,Materials,Miscellaneous,"El Segundo, Calif.",http://www.amark.com,4
+405,Spirit AeroSystems Holdings,@spiritaero,,SPR,Thomas C. Gentile III,"President, Chief Executive Officer & Director",Aerospace & Defense,Aerospace and Defense,"Wichita, Kans.",http://www.spiritaero.com,4
+406,R.R. Donnelley & Sons,@rrdonnelley,,RRD,Daniel L. Knotts,"President, Chief Executive Officer & Director",Media,"Publishing, Printing",Chicago,http://www.rrdonnelley.com,24
+407,Harris,@HarrisCorp,,HRS,William M. Brown,"Chairman, President & Chief Executive Officer",Aerospace & Defense,Aerospace and Defense,"Melbourne, Fla.",http://www.harris.com,14
+408,Expeditors Intl. of Washington,@EXPD_Official,,EXPD,Jeffrey S. Musser,"President, Chief Executive Officer & Director",Transportation,Transportation and Logistics,Seattle,http://www.expeditors.com,11
+409,Discovery,@Discovery,,DISCA,David M. Zaslav,"President, Chief Executive Officer & Director",Media,Entertainment,"Silver Spring, Md.",http://www.discovery.com,5
+410,Owens-Illinois,n/a,,OI,Andres A. Lopez,"President, Chief Executive Officer & Director",Materials,"Packaging, Containers","Perrysburg, Ohio",http://www.o-i.com,24
+411,Sanmina,@sanminacorp,,SANM,Robert K. Eulau,Chairman & Chief Executive Officer,Technology,Semiconductors and Other Electronic Components,"San Jose, Calif.",http://www.sanmina.com,18
+412,KeyCorp,@KeycorpGroup,,KEY,Beth E. Mooney,"Chairman, President & Chief Executive Officer",Financials,Commercial Banks,Cleveland,http://www.key.com,20
+413,American Financial Group,@GAIGroup,,AFG,Carl H. Lindner lll/S. Craig Lindner,"President, Co-Chief Executive Officer & Director",Financials,Insurance: Property and Casualty (Stock),Cincinnati,http://www.afginc.com,19
+414,Oshkosh,@oshkoshbgosh,,OSK,Wilson R. Jones,"President, Chief Executive Officer & Director",Industrials,Construction and Farm Machinery,"Oshkosh, Wis.",http://www.oshkoshcorporation.com,11
+415,Rockwell Collins,@rockwellcollins,,COL,Robert K. Ortberg,"Chairman, President & Chief Executive Officer",Aerospace & Defense,Aerospace and Defense,"Cedar Rapids, Iowa",http://www.rockwellcollins.com,7
+416,Kindred Healthcare,@kindredhealth,,KND,Benjamin A. Breier,"President, Chief Executive Officer & Director",Health Care,Health Care: Medical Facilities,"Louisville, Ky.",http://www.kindredhealthcare.com,15
+417,Insight Enterprises,@insightent,,NSIT,Kenneth T. Lamneck,"President, Chief Executive Officer & Director",Technology,Information Technology Services,"Tempe, Ariz.",http://www.insight.com,10
+418,Dr Pepper Snapple Group,@DrPepperSnapple,,DPS,Larry D. Young,"President, Chief Executive Officer & Director","Food, Beverages & Tobacco",Beverages,"Plano, Texas",http://www.drpeppersnapplegroup.com,10
+419,American Tower,n/a,,AMT,James D. Taiclet Jr.,"Chairman, President & Chief Executive Officer",Financials,Real estate,Boston,http://www.americantower.com,2
+420,Fortive,@FortiveCorp,,FTV,James A. Lico,"President, Chief Executive Officer & Director",Industrials,Industrial Machinery,"Everett, Wash.",http://www.fortive.com,1
+421,Ralph Lauren,@RalphLauren,,RL,Patrice Louvet,"President, Chief Executive Officer & Director",Apparel,Apparel,New York City,http://www.ralphlauren.com,10
+422,HRG Group,n/a,,HRG,Joseph S. Steinberg,Chairman & Chief Executive Officer,Household Products,Household and Personal Products,New York City,http://www.hrggroup.com,5
+423,Ascena Retail Group,@dressbarn,,ASNA,David R. Jaffe,Chairman & Chief Executive Officer,Retailing,Specialty Retailers: Apparel,"Mahwah, N.J.",http://www.ascenaretail.com,2
+424,United Rentals,@united_rentals,,URI,Michael J. Kneeland,Chairman & Chief Executive Officer,Business Services,Miscellaneous,"Stamford, Conn.",http://www.unitedrentals.com,5
+425,Casey’s General Stores,@caseysgenstore,,CASY,Terry W. Handley,"President, Chief Executive Officer & Director",Retailing,Specialty Retailers: Other,"Ankeny, Iowa",http://www.caseys.com,8
+426,Graybar Electric,@Graybar,,,Kathleen M. Mazzarella,"Chairman, President & Chief Executive Officer",Wholesalers,Wholesalers: Diversified,St. Louis,http://www.graybar.com,24
+427,Avery Dennison,@averydennison,,AVY,Mitchell R. Butier,"President, Chief Executive Officer & Director",Materials,"Packaging, Containers","Glendale, Calif.",http://www.averydennison.com,24
+428,MasTec,n/a,,MTZ,Jose R. Mas,Chief Executive Officer,Engineering & Construction,"Engineering, Construction","Coral Gables, Fla.",http://www.mastec.com,1
+429,CMS Energy,n/a,,CMS,Patricia K. Poppe,"President, Chief Executive Officer & Director",Energy,Utilities: Gas and Electric,"Jackson, Mich.",http://www.cmsenergy.com,24
+430,HD Supply Holdings,@HDSupply,,HDS,Joseph J. DeAngelo,"Chairman, President & Chief Executive Officer",Wholesalers,Wholesalers: Diversified,Atlanta,http://www.hdsupply.com,6
+431,Raymond James Financial,@raymondjames,,RJF,Paul C. Reilly,Chairman & Chief Executive Officer,Financials,Securities,"St. Petersburg, Fla.",http://www.raymondjames.com,3
+432,NCR,@NCRCorporation,,NCR,Michael D. Hayford,Chief Executive Officer & Director,Technology,"Computers, Office Equipment",Atlanta,http://www.ncr.com,21
+433,Hanesbrands,@hanes,,HBI,Gerald W. Evans Jr.,Chairman & Chief Executive Officer,Apparel,Apparel,"Winston-Salem, N.C.",http://www.hanes.com,4
+434,Asbury Automotive Group,@AsburyAutoGroup,,ABG,David W. Hult,"President, Chief Executive Officer & Director",Retailing,"Automotive Retailing, Services","Duluth, Ga.",http://www.asburyauto.com,12
+435,Citizens Financial Group,@CitizensBank,,CFG,Bruce W. Van Saun,"Chairman, President & Chief Executive Officer",Financials,Commercial Banks,"Providence, R.I.",http://www.citizensbank.com,3
+436,Packaging Corp. of America,@packagingcorp,,PKG,Mark W. Kowlzan,Chairman & Chief Executive Officer,Materials,"Packaging, Containers","Lake Forest, Ill.",http://www.packagingcorp.com,4
+437,Alleghany,n/a,,Y,Weston M. Hicks,"President, Chief Executive Officer & Director",Financials,Insurance: Property and Casualty (Stock),New York City,http://www.alleghany.com,4
+438,Apache,@ApacheCorp,,APA,John J. Christmann IV,"President, Chief Executive Officer & Director",Energy,"Mining, Crude-Oil Production",Houston,http://www.apachecorp.com,15
+439,Dillard’s,@Dillards,,DDS,William T. Dillard II,Chairman & Chief Executive Officer,Retailing,General Merchandisers,"Little Rock, Ark.",http://www.dillards.com,24
+440,Assurant,@Assurant,,AIZ,Alan B. Colberg,"President, Chief Executive Officer & Director",Financials,Insurance: Property and Casualty (Stock),New York City,http://www.assurant.com,14
+441,Franklin Resources,@FTI_US,,BEN,Gregory E. Johnson,Chairman & Chief Executive Officer,Financials,Securities,"San Mateo, Calif.",http://www.franklinresources.com,13
+442,Owens Corning,@OwensCorning,,OC,Michael H. Thaman,"Chairman, President & Chief Executive Officer",Materials,"Building Materials, Glass","Toledo, Ohio",http://www.owenscorning.com,24
+443,Motorola Solutions,@MotoSolutions,,MSI,Gregory Q. Brown,Chairman & Chief Executive Officer,Technology,Network and Other Communications Equipment,Chicago,http://www.motorolasolutions.com,24
+444,NVR,n/a,,NVR,Paul C. Saville,"President, Chief Executive Officer & Director",Engineering & Construction,Homebuilders,"Reston, Va.",http://www.nvrinc.com,9
+445,Rockwell Automation,@rokautomation,,ROK,Blake D. Moret,"Chairman, President & Chief Executive Officer",Industrials,"Electronics, Electrical Equip.",Milwaukee,http://www.rockwellautomation.com,24
+446,TreeHouse Foods,n/a,,THS,Steven Oakland,"President, Chief Executive Officer & Director","Food, Beverages & Tobacco",Food Consumer Products,"Oak Brook, Ill.",http://www.treehousefoods.com,2
+447,Wynn Resorts,@WynnLasVegas,,WYNN,Matthew O. Maddox,"President, Chief Executive Officer & Director","Hotels, Restaurants & Leisure","Hotels, Casinos, Resorts",Las Vegas,http://www.wynnresorts.com,5
+448,Olin,n/a,,OLN,John E. Fischer,"Chairman, President & Chief Executive Officer",Chemicals,Chemicals,"Clayton, Mo.",http://www.olin.com,5
+449,American Axle & Manufacturing,@americanaxle,,AXL,David C. Dauch,Chairman & Chief Executive Officer,Motor Vehicles & Parts,Motor Vehicles and Parts,Detroit,http://www.aam.com,4
+450,Old Republic International,n/a,,ORI,Aldo C. Zucaro,Chairman & Chief Executive Officer,Financials,Insurance: Property and Casualty (Stock),Chicago,http://www.oldrepublic.com,7
+451,Chemours,@chemours,,CC,Mark P. Vergnano,"President, Chief Executive Officer & Director",Chemicals,Chemicals,"Wilmington, Del.",http://www.chemours.com,2
+452,iHeartMedia,@iHeartMedia,,IHRTQ,Robert W. Pittman,Chairman & Chief Executive Officer,Media,Entertainment,San Antonio,http://www.iheartmedia.com,18
+453,Ameren,@AmerenCorp,,AEE,Warner L. Baxter,"Chairman, President & Chief Executive Officer",Energy,Utilities: Gas and Electric,St. Louis,http://www.ameren.com,21
+454,Arthur J. Gallagher,@GallagherGlobal,,AJG,J. Patrick Gallagher Jr.,"Chairman, President & Chief Executive Officer",Financials,Diversified Financials,"Rolling Meadows, Ill.",http://www.ajg.com,3
+455,Celanese,@celanese,,CE,Mark C. Rohr,"Chairman, President & Chief Executive Officer",Chemicals,Chemicals,"Irving, Texas",http://www.celanese.com,13
+456,Sealed Air,@Sealed_Air,,SEE,Edward L. Doheny II,"President, Chief Executive Officer & Director",Materials,"Packaging, Containers","Charlotte, N.C.",http://www.sealedair.com,21
+457,UGI,@UGI_Utilities,,UGI,John L. Walsh,"President, Chief Executive Officer & Director",Energy,Energy,"King of Prussia, Pa.",http://www.ugicorp.com,14
+458,Realogy Holdings,@Realogy,,RLGY,Ryan M. Schneider,"President, Chief Executive Officer & Director",Financials,Real estate,"Madison, N.J.",http://www.realogy.com,8
+459,Burlington Stores,@Burlington,,BURL,Thomas A. Kingsbury,"Chairman, President & Chief Executive Officer",Retailing,Specialty Retailers: Apparel,"Burlington, N.J.",http://www.burlington.com,3
+460,Regions Financial,@askRegions,,RF,O.B. Grayson Hall Jr.,Chairman & Chief Executive Officer,Financials,Commercial Banks,"Birmingham, Ala.",http://www.regions.com,20
+461,AK Steel Holding,n/a,,AKS,Roger K. Newport,Chairman & Chief Executive Officer,Materials,Metals,"West Chester, Ohio",http://www.aksteel.com,18
+462,Securian Financial Group,@securian,,,Christopher M. Hilger,"Chairman, President & Chief Executive Officer",Financials,"Insurance: Life, Health (stock)","St. Paul, Minn.",http://www.securian.com,1
+463,S&P Global,@SPGlobalRatings,,SPGI,Douglas L. Peterson,"President, Chief Executive Officer & Director",Business Services,Financial Data Services,New York City,http://www.spglobal.com,24
+464,Markel,n/a,,MKL,Thomas S. Gayner/Richard R. Whitt III,Co-Chief Executive Officer & Director,Financials,Insurance: Property and Casualty (Stock),"Glen Allen, Va.",http://www.markelcorp.com,3
+465,TravelCenters of America,@TATravelCenters,,TA,Andrew J. Rebholz,Chief Executive Officer & Director,Retailing,Specialty Retailers: Other,"Westlake, Ohio",http://www.ta-petro.com,11
+466,Conduent,@conduent,,CNDT,Ashok Vemuri,Chairman & Chief Executive Officer,Business Services,Diversified Outsourcing Services,"Florham Park, N.J.",http://www.conduent.com,1
+467,M&T Bank Corp.,@MandT_Bank,,MTB,Rene F. Jones,Chairman & Chief Executive Officer,Financials,Commercial Banks,"Buffalo, N.Y.",http://www.mtb.com,3
+468,Clorox,@Clorox,,CLX,Benno O. Dorer,Chairman & Chief Executive Officer,Household Products,Household and Personal Products,"Oakland, Calif.",http://www.thecloroxcompany.com,19
+469,AmTrust Financial Services,@AmTrustInsured,,AFSI,Barry D. Zyskind,"Chairman, President & Chief Executive Officer",Financials,Insurance: Property and Casualty (Stock),New York City,http://www.amtrustfinancial.com,2
+470,KKR,@kkr_co,,KKR,Henry R. Kravis/George R. Roberts,Co-Chairman & Co-Chief Executive Officer,Financials,Securities,New York City,http://www.kkr.com,6
+471,Ulta Beauty,@UltaBeauty,,ULTA,Mary N. Dillon,Chairman & Chief Executive Officer,Retailing,Specialty Retailers: Other,"Bolingbrook, Ill.",http://www.ulta.com,1
+472,Yum Brands,@yumbrands,,YUM,Greg Creed,Chief Executive Officer & Director,"Hotels, Restaurants & Leisure",Food Services,"Louisville, Ky.",http://www.yum.com,20
+473,Regeneron Pharmaceuticals,@Regeneron ‏,,REGN,Leonard S. Schleifer,"President, Chief Executive Officer & Director",Health Care,Pharmaceuticals,"Tarrytown, N.Y.",http://www.regeneron.com,1
+474,Windstream Holdings,@windstream,,WIN,Anthony W. Thomas,"President, Chief Executive Officer & Director",Telecommunications,Telecommunications,"Little Rock, Ark.",http://www.windstream.com,6
+475,Magellan Health,@MagellanHealth,,MGLN,Barry M. Smith,Chairman & Chief Executive Officer,Health Care,Health Care: Insurance and Managed Care,"Scottsdale, Ariz.",http://www.magellanhealth.com,1
+476,Western & Southern Financial,@WesternSouthern,,,John F. Barrett,"Chairman, President & Chief Executive Officer",Financials,"Insurance: Life, Health (Mutual)",Cincinnati,http://www.westernsouthern.com,14
+477,Intercontinental Exchange,@ice_markets,,ICE,Jeffrey C. Sprecher,Chairman & Chief Executive Officer,Financials,Securities,Atlanta,http://www.theice.com,2
+478,Ingredion,@Ingredion,,INGR,James P. Zallie,"President, Chief Executive Officer & Director","Food, Beverages & Tobacco",Food Production,"Westchester, Ill.",http://www.ingredion.com,7
+479,Wyndham Destinations,@wyndestinations,,WYN,Michael D. Brown,Chairman & Chief Executive Officer,"Hotels, Restaurants & Leisure","Hotels, Casinos, Resorts","Parsippany, N.J.",http://www.wyndhamdestinations.com,5
+480,Toll Brothers,@tollbrothersinc,,TOL,Douglas C. Yearley Jr.,Chairman & Chief Executive Officer,Engineering & Construction,Homebuilders,"Horsham, Pa.",http://www.tollbrothers.com,6
+481,Seaboard,n/a,,SEB,Steven J. Bresky,"Chairman, President & Chief Executive Officer","Food, Beverages & Tobacco",Food Production,"Merriam, Kans.",http://www.seaboardcorp.com,8
+482,Booz Allen Hamilton,@BoozAllen,,BAH,Horacio D. Rozanski,"President, Chief Executive Officer & Director",Technology,Information Technology Services,"McLean, Va.",http://www.boozallen.com,8
+483,First American Financial,@FirstAm,,FAF,Dennis J. Gilmore,Chairman & Chief Executive Officer,Financials,Insurance: Property and Casualty (Stock),"Santa Ana, Calif.",http://www.firstam.com,4
+484,Cincinnati Financial,n/a,,CINF,Steven J. Johnston,"President, Chief Executive Officer & Director",Financials,Insurance: Property and Casualty (Stock),"Fairfield, Ohio",http://www.cinfin.com,4
+485,Avon Products,@avonworldwide,,AVP,Jan Zijderveld,Chairman & Chief Executive Officer,Household Products,Household and Personal Products,"Rye, N.Y.",http://www.avoninvestor.com,24
+486,Northern Trust,@TheNTGolf,,NTRS,Michael G. O'Grady,"President, Chief Executive Officer & Director",Financials,Commercial Banks,Chicago,http://www.northerntrust.com,7
+487,Fiserv,@Fiserv,,FISV,Jeffery W. Yabuki,"President, Chief Executive Officer & Director",Business Services,Financial Data Services,"Brookfield, Wis.",http://www.fiserv.com,8
+488,Harley-Davidson,@harleydavidson,,HOG,Matthew S. Levatich,"President, Chief Executive Officer & Director",Transportation,Transportation Equipment,Milwaukee,http://www.harley-davidson.com,17
+489,Cheniere Energy,@Cheniere,,LNG,Jack A. Fusco,"President, Chief Executive Officer & Director",Energy,Energy,Houston,http://www.cheniere.com,1
+490,Patterson,n/a,,PDCO,Mark S. Walchirk,"President, Chief Executive Officer & Director",Wholesalers,Wholesalers: Health Care,"St. Paul, Minn.",http://www.pattersoncompanies.com,2
+491,Peabody Energy,@peabodyenergy,,BTU,Glenn L. Kellow,"President, Chief Executive Officer & Director",Energy,"Mining, Crude-Oil Production",St. Louis,http://www.peabodyenergy.com,13
+492,ON Semiconductor,@onsemi,,ON,Keith D. Jackson,"President, Chief Executive Officer & Director",Technology,Semiconductors and Other Electronic Components,Phoenix,http://www.onsemi.com,1
+493,Simon Property Group,@SimonPropertyGp,,SPG,David E. Simon,Chairman & Chief Executive Officer,Financials,Real estate,Indianapolis,http://www.simon.com,5
+494,Western Union,@WesternUnion,,WU,Hikmet Ersek,"President, Chief Executive Officer & Director",Business Services,Financial Data Services,"Englewood, Colo.",http://www.westernunion.com,12
+495,NetApp,@NetApp,,NTAP,George Kurian,"President, Chief Executive Officer & Director",Technology,"Computers, Office Equipment","Sunnyvale, Calif.",http://www.netapp.com,7
+496,Polaris Industries,@PolarisInd,,PII,Scott W. Wine,Chairman & Chief Executive Officer,Transportation,Transportation Equipment,"Medina, Minn.",http://www.polaris.com,1
+497,Pioneer Natural Resources,@PXDtweets ‏,,PXD,Timothy L. Dove,"President, Chief Executive Officer & Director",Energy,"Mining, Crude-Oil Production","Irving, Texas",http://www.pxd.com,2
+498,ABM Industries,@ABMFacilityServ,,ABM,Scott B. Salmirs,"President, Chief Executive Officer & Director",Business Services,Diversified Outsourcing Services,New York City,http://www.abm.com,3
+499,Vistra Energy,@VistraEnergy,,VST,Curtis A. Morgan,"President, Chief Executive Officer & Director",Energy,Energy,"Irving, Texas",http://www.vistraenergy.com,2
+500,Cintas,@CintasCorp,,CTAS,Scott D. Farmer,Chairman & Chief Executive Officer,Business Services,Diversified Outsourcing Services,Cincinnati,http://www.cintas.com,1
